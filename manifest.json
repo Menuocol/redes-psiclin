@@ -1,0 +1,2437 @@
+{
+ "posts": [
+  {
+   "id": "P01",
+   "date": "2026-11-16",
+   "time": "10:00",
+   "week": 1,
+   "camp": "anx",
+   "moment": "Festivo (Independencia de Cartagena) · inicio de semana",
+   "kind": "carousel",
+   "pillar": "Formato nuevo · Pronóstico emocional #1",
+   "caption": "llegó el pronóstico emocional de la semana.\n\nun lunes festivo para descansar sin culpa, un martes cuesta arriba, un jueves para hablar de cómo están los hombres de tu vida y un sábado para preguntarle a alguien cómo está de verdad.\n\n¿cómo viene tu clima esta semana? cuéntanos en los comentarios.\n\ncada lunes publicamos un pronóstico nuevo. guárdalo para no perderte el próximo.",
+   "tags": [
+    "#Psiclín",
+    "#SaludMental",
+    "#PsicologíaMedellín",
+    "#BienestarEmocional",
+    "#Medellín"
+   ],
+   "alt": "Tarjeta con estilo de app del clima: pronóstico emocional de la semana del 16 al 22 de noviembre en Medellín, con lunes festivo, martes post-puente, Día del Hombre y Día del Saludo.",
+   "folder": "posts/2026-11-16_P01",
+   "media": [
+    "01.png",
+    "02.png",
+    "03.png"
+   ],
+   "caption_full": "llegó el pronóstico emocional de la semana.\n\nun lunes festivo para descansar sin culpa, un martes cuesta arriba, un jueves para hablar de cómo están los hombres de tu vida y un sábado para preguntarle a alguien cómo está de verdad.\n\n¿cómo viene tu clima esta semana? cuéntanos en los comentarios.\n\ncada lunes publicamos un pronóstico nuevo. guárdalo para no perderte el próximo.\n\n#Psiclín #SaludMental #PsicologíaMedellín #BienestarEmocional #Medellín",
+   "media_paths": [
+    "posts/2026-11-16_P01/01.png",
+    "posts/2026-11-16_P01/02.png",
+    "posts/2026-11-16_P01/03.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "lun"
+  },
+  {
+   "id": "P02",
+   "date": "2026-11-17",
+   "time": "19:00",
+   "week": 1,
+   "camp": "anx",
+   "moment": "Regreso del puente festivo",
+   "kind": "single",
+   "pillar": "Validador",
+   "caption": "si hoy te está costando arrancar, no estás solo.\n\ndespués de un puente, el cuerpo vuelve más rápido que la cabeza. hoy no tienes que ponerte al día con todo: elige una sola cosa y empieza por ahí.\n\nguárdalo para el próximo festivo.",
+   "tags": [
+    "#Psiclín",
+    "#SaludMental",
+    "#Autocuidado",
+    "#PsicologíaMedellín",
+    "#Medellín"
+   ],
+   "alt": "Fondo crema con el texto: Volver del puente también cuesta. No es pereza.",
+   "folder": "posts/2026-11-17_P02",
+   "media": [
+    "01.png"
+   ],
+   "caption_full": "si hoy te está costando arrancar, no estás solo.\n\ndespués de un puente, el cuerpo vuelve más rápido que la cabeza. hoy no tienes que ponerte al día con todo: elige una sola cosa y empieza por ahí.\n\nguárdalo para el próximo festivo.\n\n#Psiclín #SaludMental #Autocuidado #PsicologíaMedellín #Medellín",
+   "media_paths": [
+    "posts/2026-11-17_P02/01.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "mar"
+  },
+  {
+   "id": "P03",
+   "date": "2026-11-18",
+   "time": "19:00",
+   "week": 1,
+   "camp": "anx",
+   "moment": "Campaña ansiedad 1/4 · enganche",
+   "kind": "carousel",
+   "pillar": "Campaña · Ansiedad",
+   "caption": "la ansiedad no siempre se ve como nervios.\n\na veces se ve como no poder parar, como un cuerpo que no descansa o una cabeza que no se apaga en la noche.\n\nsi te reconociste en alguna, hicimos un test de 7 preguntas para que entiendas mejor cómo estás. está en el link de la bio. no es un diagnóstico: es un primer paso.\n\ny si quieres, hablemos.\n\ncontenido educativo. no reemplaza una evaluación profesional.",
+   "tags": [
+    "#Psiclín",
+    "#Ansiedad",
+    "#SaludMental",
+    "#PsicologíaMedellín",
+    "#TestDeAnsiedad"
+   ],
+   "alt": "Carrusel morado y lima: ¿Tienes ansiedad sin saberlo? Cuatro señales y una invitación a hacer el test.",
+   "folder": "posts/2026-11-18_P03",
+   "media": [
+    "01.png",
+    "02.png",
+    "03.png"
+   ],
+   "caption_full": "la ansiedad no siempre se ve como nervios.\n\na veces se ve como no poder parar, como un cuerpo que no descansa o una cabeza que no se apaga en la noche.\n\nsi te reconociste en alguna, hicimos un test de 7 preguntas para que entiendas mejor cómo estás. está en el link de la bio. no es un diagnóstico: es un primer paso.\n\ny si quieres, hablemos.\n\ncontenido educativo. no reemplaza una evaluación profesional.\n\n#Psiclín #Ansiedad #SaludMental #PsicologíaMedellín #TestDeAnsiedad",
+   "media_paths": [
+    "posts/2026-11-18_P03/01.png",
+    "posts/2026-11-18_P03/02.png",
+    "posts/2026-11-18_P03/03.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "mié"
+  },
+  {
+   "id": "P04",
+   "date": "2026-11-19",
+   "time": "19:00",
+   "week": 1,
+   "camp": "anx",
+   "moment": "Día Internacional del Hombre · Movember",
+   "kind": "carousel",
+   "pillar": "Normalizador",
+   "caption": "hoy es el día internacional del hombre.\n\na muchos les enseñaron a aguantar callados: a no llorar, a resolver solos, a decir \"todo bien\" aunque no lo esté.\n\npedir ayuda también es de hombres.\n\nsi eres tú, o alguien que quieres, este es un buen día para hablar. envíaselo a quien lo necesite.\n\ncontenido educativo. no reemplaza una evaluación profesional.",
+   "tags": [
+    "#Psiclín",
+    "#DíaInternacionalDelHombre",
+    "#SaludMentalMasculina",
+    "#Movember",
+    "#PsicologíaMedellín"
+   ],
+   "alt": "Foto de un hombre en penumbra con el texto: Los hombres también se cansan de aguantar. Siguen frases tachadas y una invitación a hablar.",
+   "folder": "posts/2026-11-19_P04",
+   "media": [
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png"
+   ],
+   "caption_full": "hoy es el día internacional del hombre.\n\na muchos les enseñaron a aguantar callados: a no llorar, a resolver solos, a decir \"todo bien\" aunque no lo esté.\n\npedir ayuda también es de hombres.\n\nsi eres tú, o alguien que quieres, este es un buen día para hablar. envíaselo a quien lo necesite.\n\ncontenido educativo. no reemplaza una evaluación profesional.\n\n#Psiclín #DíaInternacionalDelHombre #SaludMentalMasculina #Movember #PsicologíaMedellín",
+   "media_paths": [
+    "posts/2026-11-19_P04/01.png",
+    "posts/2026-11-19_P04/02.png",
+    "posts/2026-11-19_P04/03.png",
+    "posts/2026-11-19_P04/04.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "jue"
+  },
+  {
+   "id": "P05",
+   "date": "2026-11-20",
+   "time": "19:00",
+   "week": 1,
+   "camp": "anx",
+   "moment": "Día Universal del Niño",
+   "kind": "carousel",
+   "pillar": "Educativo",
+   "caption": "hoy es el día universal del niño.\n\nlos niños también tienen días difíciles, aunque no siempre sepan ponerlos en palabras: a veces se nota en el sueño, en el colegio, en el juego o en el genio.\n\nte dejamos 3 cosas que puedes hacer hoy mismo.\n\nsi algo te preocupa, en psiclín acompañamos a niños y familias con psicología infantil y neuropsicología. escríbenos.\n\ncontenido educativo. no reemplaza una evaluación profesional.",
+   "tags": [
+    "#Psiclín",
+    "#DíaDelNiño",
+    "#PsicologíaInfantil",
+    "#Neuropsicología",
+    "#CrianzaConsciente"
+   ],
+   "alt": "Carrusel celeste: Los niños también tienen días difíciles, con íconos de sueño, colegio, juego y genio, y tres consejos para padres.",
+   "folder": "posts/2026-11-20_P05",
+   "media": [
+    "01.png",
+    "02.png",
+    "03.png"
+   ],
+   "caption_full": "hoy es el día universal del niño.\n\nlos niños también tienen días difíciles, aunque no siempre sepan ponerlos en palabras: a veces se nota en el sueño, en el colegio, en el juego o en el genio.\n\nte dejamos 3 cosas que puedes hacer hoy mismo.\n\nsi algo te preocupa, en psiclín acompañamos a niños y familias con psicología infantil y neuropsicología. escríbenos.\n\ncontenido educativo. no reemplaza una evaluación profesional.\n\n#Psiclín #DíaDelNiño #PsicologíaInfantil #Neuropsicología #CrianzaConsciente",
+   "media_paths": [
+    "posts/2026-11-20_P05/01.png",
+    "posts/2026-11-20_P05/02.png",
+    "posts/2026-11-20_P05/03.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "vie"
+  },
+  {
+   "id": "P06",
+   "date": "2026-11-21",
+   "time": "11:00",
+   "week": 1,
+   "camp": "anx",
+   "moment": "Día Mundial del Saludo (sábado)",
+   "kind": "single",
+   "pillar": "Reflexivo",
+   "caption": "hoy es el día mundial del saludo.\n\nte proponemos algo: escríbele a alguien y pregúntale \"¿cómo estás de verdad?\". no el \"bien, ¿y tú?\" de siempre.\n\ny si alguien te lo pregunta a ti, date permiso de responder distinto.\n\n¿a quién se lo vas a enviar?",
+   "tags": [
+    "#Psiclín",
+    "#DíaMundialDelSaludo",
+    "#SaludMental",
+    "#Conversaciones",
+    "#Medellín"
+   ],
+   "alt": "Foto de dos tazas de café sobre una mesa de madera con el texto: Hoy es el Día del Saludo, ¿cómo estás de verdad?",
+   "folder": "posts/2026-11-21_P06",
+   "media": [
+    "01.png"
+   ],
+   "caption_full": "hoy es el día mundial del saludo.\n\nte proponemos algo: escríbele a alguien y pregúntale \"¿cómo estás de verdad?\". no el \"bien, ¿y tú?\" de siempre.\n\ny si alguien te lo pregunta a ti, date permiso de responder distinto.\n\n¿a quién se lo vas a enviar?\n\n#Psiclín #DíaMundialDelSaludo #SaludMental #Conversaciones #Medellín",
+   "media_paths": [
+    "posts/2026-11-21_P06/01.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "sáb"
+  },
+  {
+   "id": "P07",
+   "date": "2026-11-23",
+   "time": "19:00",
+   "week": 2,
+   "camp": "anx",
+   "moment": "Semana de Black Friday",
+   "kind": "carousel",
+   "pillar": "Formato nuevo · Pronóstico emocional #2",
+   "caption": "pronóstico emocional de la semana del black friday.\n\nalta probabilidad de comprar algo para sentirte mejor, ráfagas de \"me lo merezco\" y nubosidad de pendientes de fin de año.\n\nla recomendación: antes de pagar, respira 10 segundos. no para que no compres, sino para que decidas tú y no el cansancio.\n\n¿cómo viene tu clima? cuéntanos en los comentarios.",
+   "tags": [
+    "#Psiclín",
+    "#BlackFriday",
+    "#SaludMental",
+    "#PsicologíaMedellín",
+    "#BienestarEmocional"
+   ],
+   "alt": "Tarjeta estilo app del clima: pronóstico emocional de la semana del Black Friday, del 23 al 29 de noviembre.",
+   "folder": "posts/2026-11-23_P07",
+   "media": [
+    "01.png",
+    "02.png",
+    "03.png"
+   ],
+   "caption_full": "pronóstico emocional de la semana del black friday.\n\nalta probabilidad de comprar algo para sentirte mejor, ráfagas de \"me lo merezco\" y nubosidad de pendientes de fin de año.\n\nla recomendación: antes de pagar, respira 10 segundos. no para que no compres, sino para que decidas tú y no el cansancio.\n\n¿cómo viene tu clima? cuéntanos en los comentarios.\n\n#Psiclín #BlackFriday #SaludMental #PsicologíaMedellín #BienestarEmocional",
+   "media_paths": [
+    "posts/2026-11-23_P07/01.png",
+    "posts/2026-11-23_P07/02.png",
+    "posts/2026-11-23_P07/03.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "lun"
+  },
+  {
+   "id": "P08",
+   "date": "2026-11-24",
+   "time": "19:00",
+   "week": 2,
+   "camp": "anx",
+   "moment": "Mitad de semana",
+   "kind": "carousel",
+   "pillar": "Mito vs. realidad",
+   "caption": "mito: ir al psicólogo es para casos graves.\nrealidad: es para cualquiera que quiera entenderse mejor.\n\nno tienes que esperar a no poder más. la terapia también sirve para ordenar lo que sientes, tomar decisiones o simplemente tener un espacio para ti.\n\nenvíaselo a esa persona que siempre dice \"eso no es pa' tanto\".",
+   "tags": [
+    "#Psiclín",
+    "#MitosDeLaTerapia",
+    "#SaludMental",
+    "#IrAlPsicólogo",
+    "#PsicologíaMedellín"
+   ],
+   "alt": "Dos tarjetas: el mito 'ir al psicólogo es para casos graves' tachado, y la realidad 'es para cualquiera que quiera entenderse mejor'.",
+   "folder": "posts/2026-11-24_P08",
+   "media": [
+    "01.png",
+    "02.png"
+   ],
+   "caption_full": "mito: ir al psicólogo es para casos graves.\nrealidad: es para cualquiera que quiera entenderse mejor.\n\nno tienes que esperar a no poder más. la terapia también sirve para ordenar lo que sientes, tomar decisiones o simplemente tener un espacio para ti.\n\nenvíaselo a esa persona que siempre dice \"eso no es pa' tanto\".\n\n#Psiclín #MitosDeLaTerapia #SaludMental #IrAlPsicólogo #PsicologíaMedellín",
+   "media_paths": [
+    "posts/2026-11-24_P08/01.png",
+    "posts/2026-11-24_P08/02.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "mar"
+  },
+  {
+   "id": "P09",
+   "date": "2026-11-25",
+   "time": "19:00",
+   "week": 2,
+   "camp": "anx",
+   "moment": "Campaña ansiedad 2/4 · el test",
+   "kind": "carousel",
+   "pillar": "Campaña · Ansiedad",
+   "caption": "7 preguntas. 2 minutos. un resultado que es solo para ti.\n\nnuestro test de ansiedad te ayuda a ponerle palabras a lo que sientes. no es un diagnóstico: es un primer paso para entenderte mejor.\n\nsi después quieres hablar, te acompañamos por whatsapp.\n\nlink en la bio.\n\ncontenido educativo. no reemplaza una evaluación profesional.",
+   "tags": [
+    "#Psiclín",
+    "#Ansiedad",
+    "#TestDeAnsiedad",
+    "#SaludMental",
+    "#PsicologíaMedellín"
+   ],
+   "alt": "Carrusel morado y lima con un 7 gigante: 7 preguntas para entender cómo estás, y los pasos del test.",
+   "folder": "posts/2026-11-25_P09",
+   "media": [
+    "01.png",
+    "02.png",
+    "03.png"
+   ],
+   "caption_full": "7 preguntas. 2 minutos. un resultado que es solo para ti.\n\nnuestro test de ansiedad te ayuda a ponerle palabras a lo que sientes. no es un diagnóstico: es un primer paso para entenderte mejor.\n\nsi después quieres hablar, te acompañamos por whatsapp.\n\nlink en la bio.\n\ncontenido educativo. no reemplaza una evaluación profesional.\n\n#Psiclín #Ansiedad #TestDeAnsiedad #SaludMental #PsicologíaMedellín",
+   "media_paths": [
+    "posts/2026-11-25_P09/01.png",
+    "posts/2026-11-25_P09/02.png",
+    "posts/2026-11-25_P09/03.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "mié"
+  },
+  {
+   "id": "P10",
+   "date": "2026-11-26",
+   "time": "19:00",
+   "week": 2,
+   "camp": "anx",
+   "moment": "Víspera de Black Friday",
+   "kind": "carousel",
+   "pillar": "Tip práctico",
+   "caption": "mañana es black friday. antes de pagar, 3 preguntas:\n\n1. ¿lo quiero, o quiero sentirme mejor?\n2. ¿lo voy a querer igual mañana?\n3. ¿qué estoy sintiendo ahora mismo?\n\nno se trata de no comprar, sino de comprar desde la calma.\n\nguárdalo para mañana y compártelo con tu compañero de compras.",
+   "tags": [
+    "#Psiclín",
+    "#BlackFriday",
+    "#ComprasConscientes",
+    "#SaludMental",
+    "#PsicologíaMedellín"
+   ],
+   "alt": "Carrusel con foto de una mano sosteniendo un celular y tres preguntas para hacerse antes de comprar en Black Friday.",
+   "folder": "posts/2026-11-26_P10",
+   "media": [
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png",
+    "05.png"
+   ],
+   "caption_full": "mañana es black friday. antes de pagar, 3 preguntas:\n\n1. ¿lo quiero, o quiero sentirme mejor?\n2. ¿lo voy a querer igual mañana?\n3. ¿qué estoy sintiendo ahora mismo?\n\nno se trata de no comprar, sino de comprar desde la calma.\n\nguárdalo para mañana y compártelo con tu compañero de compras.\n\n#Psiclín #BlackFriday #ComprasConscientes #SaludMental #PsicologíaMedellín",
+   "media_paths": [
+    "posts/2026-11-26_P10/01.png",
+    "posts/2026-11-26_P10/02.png",
+    "posts/2026-11-26_P10/03.png",
+    "posts/2026-11-26_P10/04.png",
+    "posts/2026-11-26_P10/05.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "jue"
+  },
+  {
+   "id": "P11",
+   "date": "2026-11-27",
+   "time": "12:00",
+   "week": 2,
+   "camp": "anx",
+   "moment": "Black Friday",
+   "kind": "single",
+   "pillar": "Normalizador · humor",
+   "caption": "hoy todo tiene descuento. esto también: 100 % menos culpa por descansar.\n\nla oferta no se agota y no tiene letra pequeña.\n\netiqueta a quien necesita aprovecharla.",
+   "tags": [
+    "#Psiclín",
+    "#BlackFriday",
+    "#Descansar",
+    "#SaludMental",
+    "#Medellín"
+   ],
+   "alt": "Fondo coral con una etiqueta de precio dibujada y el texto: Black Friday, 100 % de descuento en culpa por descansar.",
+   "folder": "posts/2026-11-27_P11",
+   "media": [
+    "01.png"
+   ],
+   "caption_full": "hoy todo tiene descuento. esto también: 100 % menos culpa por descansar.\n\nla oferta no se agota y no tiene letra pequeña.\n\netiqueta a quien necesita aprovecharla.\n\n#Psiclín #BlackFriday #Descansar #SaludMental #Medellín",
+   "media_paths": [
+    "posts/2026-11-27_P11/01.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "vie"
+  },
+  {
+   "id": "P12",
+   "date": "2026-11-30",
+   "time": "19:00",
+   "week": 3,
+   "camp": "anx",
+   "moment": "Último día de noviembre · llega diciembre",
+   "kind": "carousel",
+   "pillar": "Formato nuevo · Pronóstico emocional #3",
+   "caption": "pronóstico emocional: llega diciembre.\n\n85 % de probabilidad de pensar \"ya es diciembre y no hice nada\". vientos de reuniones y planes.\n\nla recomendación: haz la lista de lo que sí lograste. aunque sea pequeño, cuenta.\n\n¿qué va primero en tu lista? cuéntanos.",
+   "tags": [
+    "#Psiclín",
+    "#Diciembre",
+    "#SaludMental",
+    "#PsicologíaMedellín",
+    "#BienestarEmocional"
+   ],
+   "alt": "Tarjeta estilo app del clima: pronóstico emocional para la semana del 30 de noviembre al 6 de diciembre.",
+   "folder": "posts/2026-11-30_P12",
+   "media": [
+    "01.png",
+    "02.png",
+    "03.png"
+   ],
+   "caption_full": "pronóstico emocional: llega diciembre.\n\n85 % de probabilidad de pensar \"ya es diciembre y no hice nada\". vientos de reuniones y planes.\n\nla recomendación: haz la lista de lo que sí lograste. aunque sea pequeño, cuenta.\n\n¿qué va primero en tu lista? cuéntanos.\n\n#Psiclín #Diciembre #SaludMental #PsicologíaMedellín #BienestarEmocional",
+   "media_paths": [
+    "posts/2026-11-30_P12/01.png",
+    "posts/2026-11-30_P12/02.png",
+    "posts/2026-11-30_P12/03.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "lun"
+  },
+  {
+   "id": "P13",
+   "date": "2026-12-01",
+   "time": "19:00",
+   "week": 3,
+   "camp": "anx",
+   "moment": "1 de diciembre · arranca la temporada",
+   "kind": "single",
+   "pillar": "Normalizador",
+   "caption": "llegó diciembre y con él la lista: regalos, novenas, alumbrados, reuniones.\n\ntú también vas en esa lista.\n\ncuidar tu mente en diciembre es tan normal como hacer la lista de regalos. guárdalo y recuérdatelo cuando la agenda se llene.",
+   "tags": [
+    "#Psiclín",
+    "#Diciembre",
+    "#Autocuidado",
+    "#SaludMental",
+    "#PsicologíaMedellín"
+   ],
+   "alt": "Fondo crema con una lista escrita a mano: regalos, novenas, alumbrados y yo, sin marcar.",
+   "folder": "posts/2026-12-01_P13",
+   "media": [
+    "01.png"
+   ],
+   "caption_full": "llegó diciembre y con él la lista: regalos, novenas, alumbrados, reuniones.\n\ntú también vas en esa lista.\n\ncuidar tu mente en diciembre es tan normal como hacer la lista de regalos. guárdalo y recuérdatelo cuando la agenda se llene.\n\n#Psiclín #Diciembre #Autocuidado #SaludMental #PsicologíaMedellín",
+   "media_paths": [
+    "posts/2026-12-01_P13/01.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "mar"
+  },
+  {
+   "id": "P14",
+   "date": "2026-12-02",
+   "time": "19:00",
+   "week": 3,
+   "camp": "anx",
+   "moment": "Campaña ansiedad 3/4 · refuerzo",
+   "kind": "carousel",
+   "pillar": "Campaña · Ansiedad",
+   "caption": "diciembre trae cosas lindas y también mucha carga: regalos, cierres, reuniones, novenas.\n\nsi el cuerpo no descansa aunque haya vacaciones, o te cuesta disfrutar porque piensas en todo lo que falta, puede que la ansiedad se haya colado en tus fiestas.\n\nhaz el test de 7 preguntas (link en la bio) y, si quieres, hablemos.\n\ncontenido educativo. no reemplaza una evaluación profesional.",
+   "tags": [
+    "#Psiclín",
+    "#Ansiedad",
+    "#Diciembre",
+    "#SaludMental",
+    "#PsicologíaMedellín"
+   ],
+   "alt": "Carrusel morado y lima: ¿La ansiedad se coló en tus fiestas? Cuatro señales y una invitación a hablar.",
+   "folder": "posts/2026-12-02_P14",
+   "media": [
+    "01.png",
+    "02.png",
+    "03.png"
+   ],
+   "caption_full": "diciembre trae cosas lindas y también mucha carga: regalos, cierres, reuniones, novenas.\n\nsi el cuerpo no descansa aunque haya vacaciones, o te cuesta disfrutar porque piensas en todo lo que falta, puede que la ansiedad se haya colado en tus fiestas.\n\nhaz el test de 7 preguntas (link en la bio) y, si quieres, hablemos.\n\ncontenido educativo. no reemplaza una evaluación profesional.\n\n#Psiclín #Ansiedad #Diciembre #SaludMental #PsicologíaMedellín",
+   "media_paths": [
+    "posts/2026-12-02_P14/01.png",
+    "posts/2026-12-02_P14/02.png",
+    "posts/2026-12-02_P14/03.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "mié"
+  },
+  {
+   "id": "P15",
+   "date": "2026-12-03",
+   "time": "19:00",
+   "week": 3,
+   "camp": "anx",
+   "moment": "Primera semana de diciembre",
+   "kind": "carousel",
+   "pillar": "Detrás de Psiclín",
+   "caption": "no somos el psicólogo de las pelis.\n\nno hay diván, nadie te juzga y no tienes que contar toda tu vida el primer día. la primera sesión es para conocernos y que tú decidas a qué ritmo vamos.\n\nsi llevas tiempo pensándolo, escríbenos. link en la bio.",
+   "tags": [
+    "#Psiclín",
+    "#PrimeraSesión",
+    "#TerapiaPsicológica",
+    "#PsicologíaMedellín",
+    "#Laureles"
+   ],
+   "alt": "Foto de un sillón junto a una ventana con el texto: No somos el psicólogo de las pelis, y una comparación entre las películas y Psiclín.",
+   "folder": "posts/2026-12-03_P15",
+   "media": [
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png"
+   ],
+   "caption_full": "no somos el psicólogo de las pelis.\n\nno hay diván, nadie te juzga y no tienes que contar toda tu vida el primer día. la primera sesión es para conocernos y que tú decidas a qué ritmo vamos.\n\nsi llevas tiempo pensándolo, escríbenos. link en la bio.\n\n#Psiclín #PrimeraSesión #TerapiaPsicológica #PsicologíaMedellín #Laureles",
+   "media_paths": [
+    "posts/2026-12-03_P15/01.png",
+    "posts/2026-12-03_P15/02.png",
+    "posts/2026-12-03_P15/03.png",
+    "posts/2026-12-03_P15/04.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "jue"
+  },
+  {
+   "id": "P16",
+   "date": "2026-12-04",
+   "time": "19:00",
+   "week": 3,
+   "camp": "anx",
+   "moment": "Primer fin de semana de fiestas",
+   "kind": "single",
+   "pillar": "Validador",
+   "caption": "estar bien para todos y mal por dentro también cansa.\n\nsi este fin de semana te toca sonreír en todas partes, recuerda que contigo no tienes que fingir.\n\nlo que sientes tiene sentido. y si quieres hablarlo, aquí estamos.",
+   "tags": [
+    "#Psiclín",
+    "#SaludMental",
+    "#Validación",
+    "#PsicologíaMedellín",
+    "#Medellín"
+   ],
+   "alt": "Fondo azul profundo con comillas coral y la frase: Estar bien para todos y mal por dentro también cansa.",
+   "folder": "posts/2026-12-04_P16",
+   "media": [
+    "01.png"
+   ],
+   "caption_full": "estar bien para todos y mal por dentro también cansa.\n\nsi este fin de semana te toca sonreír en todas partes, recuerda que contigo no tienes que fingir.\n\nlo que sientes tiene sentido. y si quieres hablarlo, aquí estamos.\n\n#Psiclín #SaludMental #Validación #PsicologíaMedellín #Medellín",
+   "media_paths": [
+    "posts/2026-12-04_P16/01.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "vie"
+  },
+  {
+   "id": "P17",
+   "date": "2026-12-07",
+   "time": "17:00",
+   "week": 4,
+   "camp": "anx",
+   "moment": "Día de las Velitas",
+   "kind": "single",
+   "pillar": "Reflexivo",
+   "caption": "esta noche prendemos velitas.\n\nte proponemos prender una por algo que lograste este año y que nadie vio: levantarte en un día difícil, pedir ayuda, decir que no, seguir.\n\ncuéntanos en los comentarios por qué vas a prender la tuya.",
+   "tags": [
+    "#Psiclín",
+    "#DíaDeLasVelitas",
+    "#NocheDeVelitas",
+    "#SaludMental",
+    "#Medellín"
+   ],
+   "alt": "Foto de la llama de una vela en la oscuridad con el texto: ¿Qué lograste este año que nadie vio?",
+   "folder": "posts/2026-12-07_P17",
+   "media": [
+    "01.png"
+   ],
+   "caption_full": "esta noche prendemos velitas.\n\nte proponemos prender una por algo que lograste este año y que nadie vio: levantarte en un día difícil, pedir ayuda, decir que no, seguir.\n\ncuéntanos en los comentarios por qué vas a prender la tuya.\n\n#Psiclín #DíaDeLasVelitas #NocheDeVelitas #SaludMental #Medellín",
+   "media_paths": [
+    "posts/2026-12-07_P17/01.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "lun"
+  },
+  {
+   "id": "P18",
+   "date": "2026-12-08",
+   "time": "11:00",
+   "week": 4,
+   "camp": "anx",
+   "moment": "Festivo · Inmaculada Concepción",
+   "kind": "carousel",
+   "pillar": "Mito vs. realidad",
+   "caption": "mito: en diciembre no se va al psicólogo.\nrealidad: diciembre es cuando más pesa.\n\nlas fiestas traen alegría, pero también cansancio, cuentas, ausencias y reuniones difíciles. tu espacio no se toma vacaciones.\n\natendemos en persona y en línea. escríbenos.",
+   "tags": [
+    "#Psiclín",
+    "#MitosDeLaTerapia",
+    "#Diciembre",
+    "#SaludMental",
+    "#PsicologíaMedellín"
+   ],
+   "alt": "Dos tarjetas: el mito 'en diciembre no se va al psicólogo' tachado, y la realidad 'diciembre es cuando más pesa'.",
+   "folder": "posts/2026-12-08_P18",
+   "media": [
+    "01.png",
+    "02.png"
+   ],
+   "caption_full": "mito: en diciembre no se va al psicólogo.\nrealidad: diciembre es cuando más pesa.\n\nlas fiestas traen alegría, pero también cansancio, cuentas, ausencias y reuniones difíciles. tu espacio no se toma vacaciones.\n\natendemos en persona y en línea. escríbenos.\n\n#Psiclín #MitosDeLaTerapia #Diciembre #SaludMental #PsicologíaMedellín",
+   "media_paths": [
+    "posts/2026-12-08_P18/01.png",
+    "posts/2026-12-08_P18/02.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "mar"
+  },
+  {
+   "id": "P19",
+   "date": "2026-12-09",
+   "time": "19:00",
+   "week": 4,
+   "camp": "anx",
+   "moment": "Campaña ansiedad 4/4 · cierre",
+   "kind": "carousel",
+   "pillar": "Campaña · Ansiedad",
+   "caption": "cerramos el mes de la ansiedad con una invitación sencilla: si te reconociste en algo de lo que hablamos, hablemos.\n\nno tienes que estar \"muy mal\" para empezar. la primera sesión es para conocernos, y tú pones el ritmo.\n\nescríbenos por whatsapp (link en la bio).\n\ncontenido educativo. no reemplaza una evaluación profesional.",
+   "tags": [
+    "#Psiclín",
+    "#Ansiedad",
+    "#SaludMental",
+    "#PsicologíaMedellín",
+    "#PrimeraSesión"
+   ],
+   "alt": "Carrusel morado y lima: Si te reconociste, hablemos. Cuatro razones para empezar y una invitación a escribir por WhatsApp.",
+   "folder": "posts/2026-12-09_P19",
+   "media": [
+    "01.png",
+    "02.png",
+    "03.png"
+   ],
+   "caption_full": "cerramos el mes de la ansiedad con una invitación sencilla: si te reconociste en algo de lo que hablamos, hablemos.\n\nno tienes que estar \"muy mal\" para empezar. la primera sesión es para conocernos, y tú pones el ritmo.\n\nescríbenos por whatsapp (link en la bio).\n\ncontenido educativo. no reemplaza una evaluación profesional.\n\n#Psiclín #Ansiedad #SaludMental #PsicologíaMedellín #PrimeraSesión",
+   "media_paths": [
+    "posts/2026-12-09_P19/01.png",
+    "posts/2026-12-09_P19/02.png",
+    "posts/2026-12-09_P19/03.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "mié"
+  },
+  {
+   "id": "P20",
+   "date": "2026-12-10",
+   "time": "19:00",
+   "week": 4,
+   "camp": "anx",
+   "moment": "Día de los Derechos Humanos",
+   "kind": "single",
+   "pillar": "Normalizador",
+   "caption": "hoy es el día de los derechos humanos.\n\ncuidar tu salud mental también es un derecho. pedir ayuda no es un lujo, ni un exceso, ni una debilidad.\n\nrecuerda que tu eps también está obligada a prestar atención en psicología y psiquiatría. y si prefieres atención particular, en psiclín te escuchamos.",
+   "tags": [
+    "#Psiclín",
+    "#DerechosHumanos",
+    "#SaludMental",
+    "#PsicologíaMedellín",
+    "#Medellín"
+   ],
+   "alt": "Fondo celeste con íconos de escudo, corazón y sol, y el texto: Cuidar tu salud mental también es un derecho.",
+   "folder": "posts/2026-12-10_P20",
+   "media": [
+    "01.png"
+   ],
+   "caption_full": "hoy es el día de los derechos humanos.\n\ncuidar tu salud mental también es un derecho. pedir ayuda no es un lujo, ni un exceso, ni una debilidad.\n\nrecuerda que tu eps también está obligada a prestar atención en psicología y psiquiatría. y si prefieres atención particular, en psiclín te escuchamos.\n\n#Psiclín #DerechosHumanos #SaludMental #PsicologíaMedellín #Medellín",
+   "media_paths": [
+    "posts/2026-12-10_P20/01.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "jue"
+  },
+  {
+   "id": "P21",
+   "date": "2026-12-11",
+   "time": "19:00",
+   "week": 4,
+   "camp": "anx",
+   "moment": "Fin de semana de alumbrados",
+   "kind": "single",
+   "pillar": "Detrás de Psiclín · micromomento",
+   "photo_todo": "Reemplazar por la foto real del vasito con la frase en la sala de espera.",
+   "caption": "así te recibe el vasito de nuestra sala de espera: \"te lo mereces. en serio.\"\n\nporque los detalles también cuidan. y porque llegar a terapia ya es hacer algo por ti.\n\n¿ya lo viste en persona?",
+   "tags": [
+    "#Psiclín",
+    "#DetrásDePsiclín",
+    "#SaludMental",
+    "#PsicologíaMedellín",
+    "#Laureles"
+   ],
+   "alt": "Foto de una mesa con tazas y la frase: Te lo mereces. En serio.",
+   "folder": "posts/2026-12-11_P21",
+   "media": [
+    "01.png"
+   ],
+   "caption_full": "así te recibe el vasito de nuestra sala de espera: \"te lo mereces. en serio.\"\n\nporque los detalles también cuidan. y porque llegar a terapia ya es hacer algo por ti.\n\n¿ya lo viste en persona?\n\n#Psiclín #DetrásDePsiclín #SaludMental #PsicologíaMedellín #Laureles",
+   "media_paths": [
+    "posts/2026-12-11_P21/01.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "Reemplazar por la foto real del vasito con la frase en la sala de espera.",
+   "weekday": "vie"
+  },
+  {
+   "id": "P22",
+   "date": "2026-12-14",
+   "time": "19:00",
+   "week": 5,
+   "camp": "burn",
+   "moment": "Semana de novenas y prima",
+   "kind": "carousel",
+   "pillar": "Formato nuevo · Pronóstico emocional #4",
+   "caption": "pronóstico emocional: semana de novenas.\n\n90 % de probabilidad de \"¿y el novio?\", nubosidad de gastos y buñuelos garantizados.\n\nla recomendación: ten lista una respuesta corta y amable. el jueves te compartimos tres.\n\n¿cuál es la pregunta que más te hacen en las novenas?",
+   "tags": [
+    "#Psiclín",
+    "#Novenas",
+    "#Diciembre",
+    "#SaludMental",
+    "#PsicologíaMedellín"
+   ],
+   "alt": "Tarjeta estilo app del clima: pronóstico emocional para la semana de novenas, del 14 al 20 de diciembre.",
+   "folder": "posts/2026-12-14_P22",
+   "media": [
+    "01.png",
+    "02.png",
+    "03.png"
+   ],
+   "caption_full": "pronóstico emocional: semana de novenas.\n\n90 % de probabilidad de \"¿y el novio?\", nubosidad de gastos y buñuelos garantizados.\n\nla recomendación: ten lista una respuesta corta y amable. el jueves te compartimos tres.\n\n¿cuál es la pregunta que más te hacen en las novenas?\n\n#Psiclín #Novenas #Diciembre #SaludMental #PsicologíaMedellín",
+   "media_paths": [
+    "posts/2026-12-14_P22/01.png",
+    "posts/2026-12-14_P22/02.png",
+    "posts/2026-12-14_P22/03.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "lun"
+  },
+  {
+   "id": "P23",
+   "date": "2026-12-15",
+   "time": "19:00",
+   "week": 5,
+   "camp": "burn",
+   "moment": "Antes de las novenas",
+   "kind": "carousel",
+   "pillar": "Educativo",
+   "caption": "el cansancio de diciembre no siempre es físico.\n\nhay un cansancio que se va con una buena noche de sueño. y hay otro que no se va aunque descanses, dura semanas y te desconecta de lo que te gustaba.\n\nsi te pasa lo segundo, no es flojera. vale la pena hablarlo.\n\ncontenido educativo. no reemplaza una evaluación profesional.",
+   "tags": [
+    "#Psiclín",
+    "#Burnout",
+    "#Agotamiento",
+    "#SaludMental",
+    "#PsicologíaMedellín"
+   ],
+   "alt": "Carrusel celeste: El cansancio de diciembre no siempre es físico, con la diferencia entre el cansancio que se va con descanso y el que vale la pena hablar.",
+   "folder": "posts/2026-12-15_P23",
+   "media": [
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png"
+   ],
+   "caption_full": "el cansancio de diciembre no siempre es físico.\n\nhay un cansancio que se va con una buena noche de sueño. y hay otro que no se va aunque descanses, dura semanas y te desconecta de lo que te gustaba.\n\nsi te pasa lo segundo, no es flojera. vale la pena hablarlo.\n\ncontenido educativo. no reemplaza una evaluación profesional.\n\n#Psiclín #Burnout #Agotamiento #SaludMental #PsicologíaMedellín",
+   "media_paths": [
+    "posts/2026-12-15_P23/01.png",
+    "posts/2026-12-15_P23/02.png",
+    "posts/2026-12-15_P23/03.png",
+    "posts/2026-12-15_P23/04.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "mar"
+  },
+  {
+   "id": "P24",
+   "date": "2026-12-16",
+   "time": "19:00",
+   "week": 5,
+   "camp": "burn",
+   "moment": "Campaña burnout 1/3 · primera novena",
+   "kind": "carousel",
+   "pillar": "Campaña · Burnout",
+   "caption": "hoy empiezan las novenas. y para muchos, diciembre llega con el tanque vacío.\n\nsi ni el descanso te descansa, te cuesta arrancar desde que suena la alarma o sientes que das y das y no te queda nada, puede ser agotamiento.\n\nno es flojera. hablemos.\n\ncontenido educativo. no reemplaza una evaluación profesional.",
+   "tags": [
+    "#Psiclín",
+    "#Burnout",
+    "#Agotamiento",
+    "#SaludMental",
+    "#PsicologíaMedellín"
+   ],
+   "alt": "Carrusel naranja y crema: ¿Estás cansado de estar cansado? Cuatro señales de agotamiento y una invitación a hablar.",
+   "folder": "posts/2026-12-16_P24",
+   "media": [
+    "01.png",
+    "02.png",
+    "03.png"
+   ],
+   "caption_full": "hoy empiezan las novenas. y para muchos, diciembre llega con el tanque vacío.\n\nsi ni el descanso te descansa, te cuesta arrancar desde que suena la alarma o sientes que das y das y no te queda nada, puede ser agotamiento.\n\nno es flojera. hablemos.\n\ncontenido educativo. no reemplaza una evaluación profesional.\n\n#Psiclín #Burnout #Agotamiento #SaludMental #PsicologíaMedellín",
+   "media_paths": [
+    "posts/2026-12-16_P24/01.png",
+    "posts/2026-12-16_P24/02.png",
+    "posts/2026-12-16_P24/03.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "mié"
+  },
+  {
+   "id": "P25",
+   "date": "2026-12-17",
+   "time": "19:00",
+   "week": 5,
+   "camp": "burn",
+   "moment": "Novenas · guion exacto",
+   "kind": "carousel",
+   "pillar": "Tip práctico",
+   "caption": "3 frases para la novena cuando te preguntan lo que no quieres responder:\n\n1. \"eso lo hablamos otro día.\"\n2. \"estoy en eso, gracias por preguntar.\"\n3. \"cuéntame tú, ¿cómo te fue este año?\"\n\ncortas, amables y sin explicaciones de más. guárdalo y envíaselo a tu primo favorito.",
+   "tags": [
+    "#Psiclín",
+    "#Novenas",
+    "#Límites",
+    "#SaludMental",
+    "#PsicologíaMedellín"
+   ],
+   "alt": "Carrusel con foto de manos sosteniendo tazas y tres frases para responder preguntas incómodas en la novena.",
+   "folder": "posts/2026-12-17_P25",
+   "media": [
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png",
+    "05.png"
+   ],
+   "caption_full": "3 frases para la novena cuando te preguntan lo que no quieres responder:\n\n1. \"eso lo hablamos otro día.\"\n2. \"estoy en eso, gracias por preguntar.\"\n3. \"cuéntame tú, ¿cómo te fue este año?\"\n\ncortas, amables y sin explicaciones de más. guárdalo y envíaselo a tu primo favorito.\n\n#Psiclín #Novenas #Límites #SaludMental #PsicologíaMedellín",
+   "media_paths": [
+    "posts/2026-12-17_P25/01.png",
+    "posts/2026-12-17_P25/02.png",
+    "posts/2026-12-17_P25/03.png",
+    "posts/2026-12-17_P25/04.png",
+    "posts/2026-12-17_P25/05.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "jue"
+  },
+  {
+   "id": "P26",
+   "date": "2026-12-18",
+   "time": "19:00",
+   "week": 5,
+   "camp": "burn",
+   "moment": "Pago de la prima · contenido sensible",
+   "kind": "carousel",
+   "pillar": "Validador",
+   "caption": "no todo el mundo vive diciembre como en los comerciales.\n\nsi esta época trae tristeza, ausencias o soledad, lo que sientes es válido. no estás exagerando, y no tienes que pasarlo solo.\n\nsi hoy pesa demasiado, en medellín puedes llamar gratis a la línea 106 o a la línea amiga saludable (604) 444 44 48, las 24 horas. en emergencias, marca 123.\n\ny si quieres empezar un proceso, en psiclín te escuchamos.",
+   "tags": [
+    "#Psiclín",
+    "#SaludMental",
+    "#Diciembre",
+    "#NoEstásSolo",
+    "#Medellín"
+   ],
+   "alt": "Fondo azul profundo con la frase: Si diciembre te pesa, no estás exagerando. Segunda imagen con las líneas de ayuda de Medellín: 106, (604) 444 44 48 y 123.",
+   "folder": "posts/2026-12-18_P26",
+   "media": [
+    "01.png",
+    "02.png"
+   ],
+   "caption_full": "no todo el mundo vive diciembre como en los comerciales.\n\nsi esta época trae tristeza, ausencias o soledad, lo que sientes es válido. no estás exagerando, y no tienes que pasarlo solo.\n\nsi hoy pesa demasiado, en medellín puedes llamar gratis a la línea 106 o a la línea amiga saludable (604) 444 44 48, las 24 horas. en emergencias, marca 123.\n\ny si quieres empezar un proceso, en psiclín te escuchamos.\n\n#Psiclín #SaludMental #Diciembre #NoEstásSolo #Medellín",
+   "media_paths": [
+    "posts/2026-12-18_P26/01.png",
+    "posts/2026-12-18_P26/02.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "vie"
+  },
+  {
+   "id": "P27",
+   "date": "2026-12-21",
+   "time": "19:00",
+   "week": 6,
+   "camp": "burn",
+   "moment": "Semana de Navidad",
+   "kind": "carousel",
+   "pillar": "Formato nuevo · Pronóstico emocional #5",
+   "caption": "pronóstico emocional: semana de navidad.\n\nemociones mezcladas en toda la ciudad, mesas largas y una necesidad clara: un rato solo para ti.\n\nla recomendación: está bien sentir de todo esta semana. alegría, nostalgia, cansancio. no tienes que elegir uno.\n\n¿cómo viene tu clima?",
+   "tags": [
+    "#Psiclín",
+    "#Navidad",
+    "#SaludMental",
+    "#PsicologíaMedellín",
+    "#BienestarEmocional"
+   ],
+   "alt": "Tarjeta estilo app del clima: pronóstico emocional para la semana de Navidad, del 21 al 27 de diciembre.",
+   "folder": "posts/2026-12-21_P27",
+   "media": [
+    "01.png",
+    "02.png",
+    "03.png"
+   ],
+   "caption_full": "pronóstico emocional: semana de navidad.\n\nemociones mezcladas en toda la ciudad, mesas largas y una necesidad clara: un rato solo para ti.\n\nla recomendación: está bien sentir de todo esta semana. alegría, nostalgia, cansancio. no tienes que elegir uno.\n\n¿cómo viene tu clima?\n\n#Psiclín #Navidad #SaludMental #PsicologíaMedellín #BienestarEmocional",
+   "media_paths": [
+    "posts/2026-12-21_P27/01.png",
+    "posts/2026-12-21_P27/02.png",
+    "posts/2026-12-21_P27/03.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "lun"
+  },
+  {
+   "id": "P28",
+   "date": "2026-12-22",
+   "time": "19:00",
+   "week": 6,
+   "camp": "burn",
+   "moment": "Empiezan las vacaciones",
+   "kind": "carousel",
+   "pillar": "Tip práctico",
+   "caption": "descansar no es solo dormir.\n\nestas vacaciones necesitas tres descansos:\n1. del cuerpo: dormir, caminar sin prisa, comer sentado.\n2. de la mente: un rato sin pantallas ni pendientes.\n3. social: no ir a todos los planes también es descansar.\n\nguárdalo para tus vacaciones. y si ni así descansas, hablemos.",
+   "tags": [
+    "#Psiclín",
+    "#Burnout",
+    "#Descanso",
+    "#Vacaciones",
+    "#SaludMental"
+   ],
+   "alt": "Carrusel con patrón de burbujas: Descansar no es solo dormir, con tres tipos de descanso: del cuerpo, de la mente y social.",
+   "folder": "posts/2026-12-22_P28",
+   "media": [
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png",
+    "05.png"
+   ],
+   "caption_full": "descansar no es solo dormir.\n\nestas vacaciones necesitas tres descansos:\n1. del cuerpo: dormir, caminar sin prisa, comer sentado.\n2. de la mente: un rato sin pantallas ni pendientes.\n3. social: no ir a todos los planes también es descansar.\n\nguárdalo para tus vacaciones. y si ni así descansas, hablemos.\n\n#Psiclín #Burnout #Descanso #Vacaciones #SaludMental",
+   "media_paths": [
+    "posts/2026-12-22_P28/01.png",
+    "posts/2026-12-22_P28/02.png",
+    "posts/2026-12-22_P28/03.png",
+    "posts/2026-12-22_P28/04.png",
+    "posts/2026-12-22_P28/05.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "mar"
+  },
+  {
+   "id": "P29",
+   "date": "2026-12-23",
+   "time": "19:00",
+   "week": 6,
+   "camp": "burn",
+   "moment": "Campaña burnout 2/3",
+   "kind": "carousel",
+   "pillar": "Campaña · Burnout",
+   "caption": "si te despiertas cansado aunque duermas, si las vacaciones no alcanzan a cargarte o lo que antes te gustaba ahora te da pereza, puede ser agotamiento.\n\nno es flojera ni falta de ganas. es una señal de que llevas mucho tiempo dando más de lo que tienes.\n\nsi llevas semanas así, hablemos.\n\ncontenido educativo. no reemplaza una evaluación profesional.",
+   "tags": [
+    "#Psiclín",
+    "#Burnout",
+    "#Agotamiento",
+    "#SaludMental",
+    "#PsicologíaMedellín"
+   ],
+   "alt": "Carrusel naranja y crema: ¿Te despiertas cansado aunque duermas? Cuatro señales de agotamiento.",
+   "folder": "posts/2026-12-23_P29",
+   "media": [
+    "01.png",
+    "02.png",
+    "03.png"
+   ],
+   "caption_full": "si te despiertas cansado aunque duermas, si las vacaciones no alcanzan a cargarte o lo que antes te gustaba ahora te da pereza, puede ser agotamiento.\n\nno es flojera ni falta de ganas. es una señal de que llevas mucho tiempo dando más de lo que tienes.\n\nsi llevas semanas así, hablemos.\n\ncontenido educativo. no reemplaza una evaluación profesional.\n\n#Psiclín #Burnout #Agotamiento #SaludMental #PsicologíaMedellín",
+   "media_paths": [
+    "posts/2026-12-23_P29/01.png",
+    "posts/2026-12-23_P29/02.png",
+    "posts/2026-12-23_P29/03.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "mié"
+  },
+  {
+   "id": "P30",
+   "date": "2026-12-24",
+   "time": "10:00",
+   "week": 6,
+   "camp": "burn",
+   "moment": "Nochebuena",
+   "kind": "single",
+   "pillar": "Reflexivo",
+   "caption": "hoy no tienes que estar bien para todos.\n\npuedes estar en la mesa y también contigo. puedes sentir alegría y extrañar a alguien al mismo tiempo.\n\nfeliz nochebuena. que sea a tu manera.",
+   "tags": [
+    "#Psiclín",
+    "#Nochebuena",
+    "#Navidad",
+    "#SaludMental",
+    "#Medellín"
+   ],
+   "alt": "Foto de un sofá iluminado por la luz de una ventana con el texto: Hoy no tienes que estar bien para todos.",
+   "folder": "posts/2026-12-24_P30",
+   "media": [
+    "01.png"
+   ],
+   "caption_full": "hoy no tienes que estar bien para todos.\n\npuedes estar en la mesa y también contigo. puedes sentir alegría y extrañar a alguien al mismo tiempo.\n\nfeliz nochebuena. que sea a tu manera.\n\n#Psiclín #Nochebuena #Navidad #SaludMental #Medellín",
+   "media_paths": [
+    "posts/2026-12-24_P30/01.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "jue"
+  },
+  {
+   "id": "P31",
+   "date": "2026-12-25",
+   "time": "10:00",
+   "week": 6,
+   "camp": "burn",
+   "moment": "Navidad (festivo)",
+   "kind": "single",
+   "pillar": "Saludo de marca",
+   "caption": "feliz navidad.\n\ngracias por dejarnos escucharte este año: por cada pregunta, cada mensaje y cada primera sesión.\n\nde parte de todo el equipo de psiclín.",
+   "tags": [
+    "#Psiclín",
+    "#FelizNavidad",
+    "#Navidad",
+    "#PsicologíaMedellín",
+    "#Medellín"
+   ],
+   "alt": "Fondo crema con el isotipo de Psiclín y el texto: Gracias por dejarnos escucharte este año. Feliz Navidad.",
+   "folder": "posts/2026-12-25_P31",
+   "media": [
+    "01.png"
+   ],
+   "caption_full": "feliz navidad.\n\ngracias por dejarnos escucharte este año: por cada pregunta, cada mensaje y cada primera sesión.\n\nde parte de todo el equipo de psiclín.\n\n#Psiclín #FelizNavidad #Navidad #PsicologíaMedellín #Medellín",
+   "media_paths": [
+    "posts/2026-12-25_P31/01.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "vie"
+  },
+  {
+   "id": "P32",
+   "date": "2026-12-28",
+   "time": "10:00",
+   "week": 7,
+   "camp": "burn",
+   "moment": "Día de los Santos Inocentes",
+   "kind": "carousel",
+   "pillar": "Formato nuevo · Pronóstico emocional #6 (edición Inocentes)",
+   "caption": "pronóstico emocional, edición inocentes.\n\n100 % de probabilidad de bromas por whatsapp. y una que no deberías creerte: \"tengo que llegar al 31 con todo resuelto\".\n\ninocente el que se la creyó. está bien llegar como llegues.\n\n¿cómo estás cerrando el año?",
+   "tags": [
+    "#Psiclín",
+    "#DíaDeLosInocentes",
+    "#FinDeAño",
+    "#SaludMental",
+    "#PsicologíaMedellín"
+   ],
+   "alt": "Tarjeta estilo app del clima, edición Día de los Inocentes: pronóstico emocional para la semana del 28 de diciembre al 3 de enero.",
+   "folder": "posts/2026-12-28_P32",
+   "media": [
+    "01.png",
+    "02.png",
+    "03.png"
+   ],
+   "caption_full": "pronóstico emocional, edición inocentes.\n\n100 % de probabilidad de bromas por whatsapp. y una que no deberías creerte: \"tengo que llegar al 31 con todo resuelto\".\n\ninocente el que se la creyó. está bien llegar como llegues.\n\n¿cómo estás cerrando el año?\n\n#Psiclín #DíaDeLosInocentes #FinDeAño #SaludMental #PsicologíaMedellín",
+   "media_paths": [
+    "posts/2026-12-28_P32/01.png",
+    "posts/2026-12-28_P32/02.png",
+    "posts/2026-12-28_P32/03.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "lun"
+  },
+  {
+   "id": "P33",
+   "date": "2026-12-29",
+   "time": "19:00",
+   "week": 7,
+   "camp": "burn",
+   "moment": "Semana entre fiestas",
+   "kind": "single",
+   "pillar": "Detrás de Psiclín · equipo",
+   "photo_todo": "Opcional: segunda imagen con foto real del equipo (consentimiento de imagen).",
+   "caption": "\"aquí no hay respuestas incorrectas.\"\n\nes la frase que vive en cada uno de nuestros consultorios. y es la forma en que queremos acompañarte en 2027: sin juicio, a tu ritmo.\n\ngracias por un año escuchándote.",
+   "tags": [
+    "#Psiclín",
+    "#DetrásDePsiclín",
+    "#SaludMental",
+    "#PsicologíaMedellín",
+    "#Laureles"
+   ],
+   "alt": "Fondo azul profundo con comillas coral y la frase: Aquí no hay respuestas incorrectas.",
+   "folder": "posts/2026-12-29_P33",
+   "media": [
+    "01.png"
+   ],
+   "caption_full": "\"aquí no hay respuestas incorrectas.\"\n\nes la frase que vive en cada uno de nuestros consultorios. y es la forma en que queremos acompañarte en 2027: sin juicio, a tu ritmo.\n\ngracias por un año escuchándote.\n\n#Psiclín #DetrásDePsiclín #SaludMental #PsicologíaMedellín #Laureles",
+   "media_paths": [
+    "posts/2026-12-29_P33/01.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "Opcional: segunda imagen con foto real del equipo (consentimiento de imagen).",
+   "weekday": "mar"
+  },
+  {
+   "id": "P34",
+   "date": "2026-12-30",
+   "time": "19:00",
+   "week": 7,
+   "camp": "burn",
+   "moment": "Campaña burnout 3/3 · cierre",
+   "kind": "carousel",
+   "pillar": "Campaña · Burnout",
+   "caption": "enero no tiene que empezar con el tanque vacío.\n\nsi llegaste agotado al final del año, si las vacaciones no alcanzaron o si te da miedo volver a la rutina, no tienes que resolverlo solo.\n\ntu espacio de enero ya te está esperando. escríbenos por whatsapp (link en la bio).\n\ncontenido educativo. no reemplaza una evaluación profesional.",
+   "tags": [
+    "#Psiclín",
+    "#Burnout",
+    "#AñoNuevo",
+    "#SaludMental",
+    "#PsicologíaMedellín"
+   ],
+   "alt": "Carrusel naranja y crema: Enero no tiene que empezar con el tanque vacío. Invitación a hablar.",
+   "folder": "posts/2026-12-30_P34",
+   "media": [
+    "01.png",
+    "02.png",
+    "03.png"
+   ],
+   "caption_full": "enero no tiene que empezar con el tanque vacío.\n\nsi llegaste agotado al final del año, si las vacaciones no alcanzaron o si te da miedo volver a la rutina, no tienes que resolverlo solo.\n\ntu espacio de enero ya te está esperando. escríbenos por whatsapp (link en la bio).\n\ncontenido educativo. no reemplaza una evaluación profesional.\n\n#Psiclín #Burnout #AñoNuevo #SaludMental #PsicologíaMedellín",
+   "media_paths": [
+    "posts/2026-12-30_P34/01.png",
+    "posts/2026-12-30_P34/02.png",
+    "posts/2026-12-30_P34/03.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "mié"
+  },
+  {
+   "id": "P35",
+   "date": "2026-12-31",
+   "time": "10:00",
+   "week": 7,
+   "camp": "burn",
+   "moment": "Año viejo",
+   "kind": "single",
+   "pillar": "Reflexivo interactivo",
+   "caption": "hoy se despide el año viejo.\n\n¿qué le metes al tuyo? lo que ya no quieres cargar en 2027: una culpa, un miedo, una costumbre que te pesa.\n\nescríbelo en un papel, o aquí en los comentarios, y suéltalo. (sin pólvora, por favor.)\n\nfeliz fin de año.",
+   "tags": [
+    "#Psiclín",
+    "#AñoViejo",
+    "#FinDeAño",
+    "#SaludMental",
+    "#Medellín"
+   ],
+   "alt": "Foto cenital de un cuaderno abierto y una taza de café con el texto: ¿Qué le metes a tu año viejo este 31?",
+   "folder": "posts/2026-12-31_P35",
+   "media": [
+    "01.png"
+   ],
+   "caption_full": "hoy se despide el año viejo.\n\n¿qué le metes al tuyo? lo que ya no quieres cargar en 2027: una culpa, un miedo, una costumbre que te pesa.\n\nescríbelo en un papel, o aquí en los comentarios, y suéltalo. (sin pólvora, por favor.)\n\nfeliz fin de año.\n\n#Psiclín #AñoViejo #FinDeAño #SaludMental #Medellín",
+   "media_paths": [
+    "posts/2026-12-31_P35/01.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "jue"
+  },
+  {
+   "id": "P36",
+   "date": "2027-01-01",
+   "time": "11:00",
+   "week": 7,
+   "camp": "burn",
+   "moment": "Año Nuevo (festivo)",
+   "kind": "single",
+   "pillar": "Normalizador",
+   "caption": "feliz 2027.\n\nno tienes que ser una persona nueva en enero. no necesitas una lista de diez propósitos ni empezar todo el lunes.\n\nsolo tú, con un poco más de calma.\n\naquí seguimos, para cuando quieras hablar.",
+   "tags": [
+    "#Psiclín",
+    "#AñoNuevo",
+    "#FelizAñoNuevo",
+    "#SaludMental",
+    "#PsicologíaMedellín"
+   ],
+   "alt": "Fondo coral con el texto: No tienes que ser una persona nueva en enero. Solo tú, con un poco más de calma.",
+   "folder": "posts/2027-01-01_P36",
+   "media": [
+    "01.png"
+   ],
+   "caption_full": "feliz 2027.\n\nno tienes que ser una persona nueva en enero. no necesitas una lista de diez propósitos ni empezar todo el lunes.\n\nsolo tú, con un poco más de calma.\n\naquí seguimos, para cuando quieras hablar.\n\n#Psiclín #AñoNuevo #FelizAñoNuevo #SaludMental #PsicologíaMedellín",
+   "media_paths": [
+    "posts/2027-01-01_P36/01.png"
+   ],
+   "status": "pendiente de aprobación",
+   "needs": "",
+   "weekday": "vie"
+  }
+ ],
+ "stories": [
+  {
+   "date": "2026-11-16",
+   "camp": "anx",
+   "folder": "stories/2026-11-16",
+   "items": [
+    {
+     "file": "01_slider.png",
+     "type": "slider",
+     "sticker": "deslizador: ☀️ → 🌧️",
+     "text": "¿Cómo está tu clima hoy?",
+     "path": "stories/2026-11-16/01_slider.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "02_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Pedir ayuda no es debilidad. Es inteligencia.",
+     "path": "stories/2026-11-16/02_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "camp": "anx",
+   "folder": "stories/2026-11-17",
+   "items": [
+    {
+     "file": "01_eto.png",
+     "type": "eto",
+     "sticker": "encuesta: esto o aquello",
+     "text": "¿Puente para dormir",
+     "path": "stories/2026-11-17/01_eto.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "02_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "No tienes que ponerte al día con todo hoy.",
+     "path": "stories/2026-11-17/02_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "camp": "anx",
+   "folder": "stories/2026-11-18",
+   "items": [
+    {
+     "file": "01_camp.png",
+     "type": "camp",
+     "sticker": null,
+     "text": "¿Tienes ansiedad sin saberlo?",
+     "path": "stories/2026-11-18/01_camp.png",
+     "publicacion": "programable en Metricool"
+    },
+    {
+     "file": "02_camp_poll.png",
+     "type": "camp_poll",
+     "sticker": "encuesta: sí / a veces / no",
+     "text": "¿Te ha pasado?",
+     "path": "stories/2026-11-18/02_camp_poll.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "03_camp_link.png",
+     "type": "camp_link",
+     "sticker": "enlace: test de ansiedad",
+     "text": "Haz el test de 7 preguntas.",
+     "path": "stories/2026-11-18/03_camp_link.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "04_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Lo que sientes tiene sentido.",
+     "path": "stories/2026-11-18/04_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "camp": "anx",
+   "folder": "stories/2026-11-19",
+   "items": [
+    {
+     "file": "01_box.png",
+     "type": "box",
+     "sticker": "encuesta: sí / a veces / no",
+     "text": "¿A los hombres de tu vida les cuesta decir cómo están?",
+     "path": "stories/2026-11-19/01_box.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "02_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Descansar también es productivo.",
+     "path": "stories/2026-11-19/02_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "camp": "anx",
+   "folder": "stories/2026-11-20",
+   "items": [
+    {
+     "file": "01_poll.png",
+     "type": "poll",
+     "sticker": "encuesta",
+     "text": "¿Tus hijos te cuentan cómo les fue de verdad?",
+     "path": "stories/2026-11-20/01_poll.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "02_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Hoy basta con hacer una cosa a la vez.",
+     "path": "stories/2026-11-20/02_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "camp": "anx",
+   "folder": "stories/2026-11-21",
+   "items": [
+    {
+     "file": "01_share.png",
+     "type": "share",
+     "sticker": null,
+     "text": "Hola, ¿cómo estás de verdad?",
+     "path": "stories/2026-11-21/01_share.png",
+     "publicacion": "programable en Metricool"
+    },
+    {
+     "file": "02_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "No tienes que estar “muy mal” para hablar con alguien.",
+     "path": "stories/2026-11-21/02_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "camp": "anx",
+   "folder": "stories/2026-11-22",
+   "items": [
+    {
+     "file": "01_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Mereces sentirte bien.",
+     "path": "stories/2026-11-22/01_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "camp": "anx",
+   "folder": "stories/2026-11-23",
+   "items": [
+    {
+     "file": "01_slider.png",
+     "type": "slider",
+     "sticker": "deslizador: ☀️ → 🌧️",
+     "text": "¿Cómo está tu clima hoy?",
+     "path": "stories/2026-11-23/01_slider.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "02_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Tu ritmo también es válido.",
+     "path": "stories/2026-11-23/02_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "camp": "anx",
+   "folder": "stories/2026-11-24",
+   "items": [
+    {
+     "file": "01_eto.png",
+     "type": "eto",
+     "sticker": "encuesta: esto o aquello",
+     "text": "¿Café",
+     "path": "stories/2026-11-24/01_eto.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "02_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Decir que no también es cuidarte.",
+     "path": "stories/2026-11-24/02_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "camp": "anx",
+   "folder": "stories/2026-11-25",
+   "items": [
+    {
+     "file": "01_camp.png",
+     "type": "camp",
+     "sticker": null,
+     "text": "7 preguntas. 2 minutos.",
+     "path": "stories/2026-11-25/01_camp.png",
+     "publicacion": "programable en Metricool"
+    },
+    {
+     "file": "02_camp_poll.png",
+     "type": "camp_poll",
+     "sticker": "encuesta: sí / a veces / no",
+     "text": "¿Te ha pasado?",
+     "path": "stories/2026-11-25/02_camp_poll.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "03_camp_link.png",
+     "type": "camp_link",
+     "sticker": "enlace: test de ansiedad",
+     "text": "Haz el test de 7 preguntas.",
+     "path": "stories/2026-11-25/03_camp_link.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "04_lines155.png",
+     "type": "lines155",
+     "sticker": null,
+     "text": null,
+     "path": "stories/2026-11-25/04_lines155.png",
+     "publicacion": "programable en Metricool"
+    },
+    {
+     "file": "05_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Hoy puedes ser amable contigo.",
+     "path": "stories/2026-11-25/05_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "camp": "anx",
+   "folder": "stories/2026-11-26",
+   "items": [
+    {
+     "file": "01_box.png",
+     "type": "box",
+     "sticker": "caja de preguntas",
+     "text": "Pregúntale a la psicóloga: ¿qué te da curiosidad de ir a terapia?",
+     "path": "stories/2026-11-26/01_box.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "02_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Respira. Esto también pasa.",
+     "path": "stories/2026-11-26/02_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-27",
+   "camp": "anx",
+   "folder": "stories/2026-11-27",
+   "items": [
+    {
+     "file": "01_poll.png",
+     "type": "poll",
+     "sticker": "encuesta",
+     "text": "¿Compras más cuando estás estresado?",
+     "path": "stories/2026-11-27/01_poll.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "02_offer.png",
+     "type": "offer",
+     "sticker": "enlace: test de ansiedad",
+     "text": "Lo único en oferta hoy: tu descanso.",
+     "path": "stories/2026-11-27/02_offer.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "03_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "No estás solo en esto.",
+     "path": "stories/2026-11-27/03_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-28",
+   "camp": "anx",
+   "folder": "stories/2026-11-28",
+   "items": [
+    {
+     "file": "01_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Pedir ayuda no es debilidad. Es inteligencia.",
+     "path": "stories/2026-11-28/01_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-29",
+   "camp": "anx",
+   "folder": "stories/2026-11-29",
+   "items": [
+    {
+     "file": "01_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "No tienes que ponerte al día con todo hoy.",
+     "path": "stories/2026-11-29/01_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-30",
+   "camp": "anx",
+   "folder": "stories/2026-11-30",
+   "items": [
+    {
+     "file": "01_slider.png",
+     "type": "slider",
+     "sticker": "deslizador: ☀️ → 🌧️",
+     "text": "¿Cómo está tu clima hoy?",
+     "path": "stories/2026-11-30/01_slider.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "02_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Lo que sientes tiene sentido.",
+     "path": "stories/2026-11-30/02_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-01",
+   "camp": "anx",
+   "folder": "stories/2026-12-01",
+   "items": [
+    {
+     "file": "01_eto.png",
+     "type": "eto",
+     "sticker": "encuesta: esto o aquello",
+     "text": "¿Árbol",
+     "path": "stories/2026-12-01/01_eto.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "02_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Descansar también es productivo.",
+     "path": "stories/2026-12-01/02_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-02",
+   "camp": "anx",
+   "folder": "stories/2026-12-02",
+   "items": [
+    {
+     "file": "01_camp.png",
+     "type": "camp",
+     "sticker": null,
+     "text": "¿La ansiedad se coló en tus fiestas?",
+     "path": "stories/2026-12-02/01_camp.png",
+     "publicacion": "programable en Metricool"
+    },
+    {
+     "file": "02_camp_poll.png",
+     "type": "camp_poll",
+     "sticker": "encuesta: sí / a veces / no",
+     "text": "¿Te ha pasado?",
+     "path": "stories/2026-12-02/02_camp_poll.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "03_camp_link.png",
+     "type": "camp_link",
+     "sticker": "enlace: test de ansiedad",
+     "text": "Haz el test de 7 preguntas.",
+     "path": "stories/2026-12-02/03_camp_link.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "04_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Hoy basta con hacer una cosa a la vez.",
+     "path": "stories/2026-12-02/04_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-03",
+   "camp": "anx",
+   "folder": "stories/2026-12-03",
+   "items": [
+    {
+     "file": "01_box.png",
+     "type": "box",
+     "sticker": "caja de preguntas",
+     "text": "¿Qué te gustaría saber de la primera sesión?",
+     "path": "stories/2026-12-03/01_box.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "02_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "No tienes que estar “muy mal” para hablar con alguien.",
+     "path": "stories/2026-12-03/02_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-04",
+   "camp": "anx",
+   "folder": "stories/2026-12-04",
+   "items": [
+    {
+     "file": "01_poll.png",
+     "type": "poll",
+     "sticker": "encuesta",
+     "text": "¿Diciembre te carga o te recarga?",
+     "path": "stories/2026-12-04/01_poll.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "02_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Mereces sentirte bien.",
+     "path": "stories/2026-12-04/02_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-05",
+   "camp": "anx",
+   "folder": "stories/2026-12-05",
+   "items": [
+    {
+     "file": "01_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Tu ritmo también es válido.",
+     "path": "stories/2026-12-05/01_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-06",
+   "camp": "anx",
+   "folder": "stories/2026-12-06",
+   "items": [
+    {
+     "file": "01_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Decir que no también es cuidarte.",
+     "path": "stories/2026-12-06/01_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-07",
+   "camp": "anx",
+   "folder": "stories/2026-12-07",
+   "items": [
+    {
+     "file": "01_photo.png",
+     "type": "photo",
+     "sticker": "caja de preguntas: ¿por qué prendes la tuya?",
+     "text": "Prende una velita por lo que sí lograste.",
+     "path": "stories/2026-12-07/01_photo.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "02_slider.png",
+     "type": "slider",
+     "sticker": "deslizador: ☀️ → 🌧️",
+     "text": "¿Cómo está tu clima hoy?",
+     "path": "stories/2026-12-07/02_slider.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "03_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Hoy puedes ser amable contigo.",
+     "path": "stories/2026-12-07/03_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-08",
+   "camp": "anx",
+   "folder": "stories/2026-12-08",
+   "items": [
+    {
+     "file": "01_eto.png",
+     "type": "eto",
+     "sticker": "encuesta: esto o aquello",
+     "text": "¿Buñuelo",
+     "path": "stories/2026-12-08/01_eto.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "02_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Respira. Esto también pasa.",
+     "path": "stories/2026-12-08/02_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-09",
+   "camp": "anx",
+   "folder": "stories/2026-12-09",
+   "items": [
+    {
+     "file": "01_camp.png",
+     "type": "camp",
+     "sticker": null,
+     "text": "Si te reconociste… hablemos.",
+     "path": "stories/2026-12-09/01_camp.png",
+     "publicacion": "programable en Metricool"
+    },
+    {
+     "file": "02_camp_poll.png",
+     "type": "camp_poll",
+     "sticker": "encuesta: sí / a veces / no",
+     "text": "¿Te ha pasado?",
+     "path": "stories/2026-12-09/02_camp_poll.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "03_camp_link.png",
+     "type": "camp_link",
+     "sticker": "enlace: WhatsApp +57 319 681 7123",
+     "text": "Hablemos por WhatsApp.",
+     "path": "stories/2026-12-09/03_camp_link.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "04_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "No estás solo en esto.",
+     "path": "stories/2026-12-09/04_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-10",
+   "camp": "anx",
+   "folder": "stories/2026-12-10",
+   "items": [
+    {
+     "file": "01_box.png",
+     "type": "box",
+     "sticker": "caja de preguntas",
+     "text": "Pregúntale a la psicóloga lo que quieras sobre ansiedad.",
+     "path": "stories/2026-12-10/01_box.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "02_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Pedir ayuda no es debilidad. Es inteligencia.",
+     "path": "stories/2026-12-10/02_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-11",
+   "camp": "anx",
+   "folder": "stories/2026-12-11",
+   "items": [
+    {
+     "file": "01_poll.png",
+     "type": "poll",
+     "sticker": "encuesta",
+     "text": "¿Ya fuiste a ver los alumbrados?",
+     "path": "stories/2026-12-11/01_poll.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "02_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "No tienes que ponerte al día con todo hoy.",
+     "path": "stories/2026-12-11/02_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-12",
+   "camp": "anx",
+   "folder": "stories/2026-12-12",
+   "items": [
+    {
+     "file": "01_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Lo que sientes tiene sentido.",
+     "path": "stories/2026-12-12/01_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-13",
+   "camp": "anx",
+   "folder": "stories/2026-12-13",
+   "items": [
+    {
+     "file": "01_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Descansar también es productivo.",
+     "path": "stories/2026-12-13/01_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-14",
+   "camp": "burn",
+   "folder": "stories/2026-12-14",
+   "items": [
+    {
+     "file": "01_slider.png",
+     "type": "slider",
+     "sticker": "deslizador: ☀️ → 🌧️",
+     "text": "¿Cómo está tu clima hoy?",
+     "path": "stories/2026-12-14/01_slider.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "02_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Hoy basta con hacer una cosa a la vez.",
+     "path": "stories/2026-12-14/02_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-15",
+   "camp": "burn",
+   "folder": "stories/2026-12-15",
+   "items": [
+    {
+     "file": "01_eto.png",
+     "type": "eto",
+     "sticker": "encuesta: esto o aquello",
+     "text": "¿Novena con villancicos",
+     "path": "stories/2026-12-15/01_eto.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "02_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "No tienes que estar “muy mal” para hablar con alguien.",
+     "path": "stories/2026-12-15/02_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-16",
+   "camp": "burn",
+   "folder": "stories/2026-12-16",
+   "items": [
+    {
+     "file": "01_camp.png",
+     "type": "camp",
+     "sticker": null,
+     "text": "¿Estás cansado de estar cansado?",
+     "path": "stories/2026-12-16/01_camp.png",
+     "publicacion": "programable en Metricool"
+    },
+    {
+     "file": "02_camp_poll.png",
+     "type": "camp_poll",
+     "sticker": "encuesta: sí / a veces / no",
+     "text": "¿Te ha pasado?",
+     "path": "stories/2026-12-16/02_camp_poll.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "03_camp_link.png",
+     "type": "camp_link",
+     "sticker": "enlace: WhatsApp +57 319 681 7123",
+     "text": "Hablemos por WhatsApp.",
+     "path": "stories/2026-12-16/03_camp_link.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "04_novena.png",
+     "type": "novena",
+     "sticker": null,
+     "text": "Hoy empieza la novena. Que te encuentre con un poquito de calma.",
+     "path": "stories/2026-12-16/04_novena.png",
+     "publicacion": "programable en Metricool"
+    },
+    {
+     "file": "05_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Mereces sentirte bien.",
+     "path": "stories/2026-12-16/05_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-17",
+   "camp": "burn",
+   "folder": "stories/2026-12-17",
+   "items": [
+    {
+     "file": "01_box.png",
+     "type": "box",
+     "sticker": "caja de preguntas",
+     "text": "¿Cuál es la pregunta más incómoda que te han hecho en una novena?",
+     "path": "stories/2026-12-17/01_box.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "02_novena.png",
+     "type": "novena",
+     "sticker": null,
+     "text": "Día 2. Cantar desafinado también cuenta como alegría.",
+     "path": "stories/2026-12-17/02_novena.png",
+     "publicacion": "programable en Metricool"
+    },
+    {
+     "file": "03_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Tu ritmo también es válido.",
+     "path": "stories/2026-12-17/03_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-18",
+   "camp": "burn",
+   "folder": "stories/2026-12-18",
+   "items": [
+    {
+     "file": "01_poll.png",
+     "type": "poll",
+     "sticker": "encuesta",
+     "text": "¿Cuántas novenas llevas?",
+     "path": "stories/2026-12-18/01_poll.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "02_novena.png",
+     "type": "novena",
+     "sticker": null,
+     "text": "Día 3. Está bien llegar cansado y quedarte un rato.",
+     "path": "stories/2026-12-18/02_novena.png",
+     "publicacion": "programable en Metricool"
+    },
+    {
+     "file": "03_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Decir que no también es cuidarte.",
+     "path": "stories/2026-12-18/03_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-19",
+   "camp": "burn",
+   "folder": "stories/2026-12-19",
+   "items": [
+    {
+     "file": "01_novena.png",
+     "type": "novena",
+     "sticker": null,
+     "text": "Día 4. Hoy pide un abrazo, no solo un buñuelo.",
+     "path": "stories/2026-12-19/01_novena.png",
+     "publicacion": "programable en Metricool"
+    },
+    {
+     "file": "02_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Hoy puedes ser amable contigo.",
+     "path": "stories/2026-12-19/02_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-20",
+   "camp": "burn",
+   "folder": "stories/2026-12-20",
+   "items": [
+    {
+     "file": "01_novena.png",
+     "type": "novena",
+     "sticker": null,
+     "text": "Día 5. Si hoy no tienes ganas, puedes quedarte en casa.",
+     "path": "stories/2026-12-20/01_novena.png",
+     "publicacion": "programable en Metricool"
+    },
+    {
+     "file": "02_text.png",
+     "type": "text",
+     "sticker": null,
+     "text": "La prima no es para pagar la culpa.",
+     "path": "stories/2026-12-20/02_text.png",
+     "publicacion": "programable en Metricool"
+    },
+    {
+     "file": "03_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Respira. Esto también pasa.",
+     "path": "stories/2026-12-20/03_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-21",
+   "camp": "burn",
+   "folder": "stories/2026-12-21",
+   "items": [
+    {
+     "file": "01_slider.png",
+     "type": "slider",
+     "sticker": "deslizador: ☀️ → 🌧️",
+     "text": "¿Cómo está tu clima hoy?",
+     "path": "stories/2026-12-21/01_slider.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "02_novena.png",
+     "type": "novena",
+     "sticker": null,
+     "text": "Día 6. Mira quién está solo en la reunión y acércate.",
+     "path": "stories/2026-12-21/02_novena.png",
+     "publicacion": "programable en Metricool"
+    },
+    {
+     "file": "03_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "No estás solo en esto.",
+     "path": "stories/2026-12-21/03_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-22",
+   "camp": "burn",
+   "folder": "stories/2026-12-22",
+   "items": [
+    {
+     "file": "01_eto.png",
+     "type": "eto",
+     "sticker": "encuesta: esto o aquello",
+     "text": "¿Regalo hecho a mano",
+     "path": "stories/2026-12-22/01_eto.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "02_novena.png",
+     "type": "novena",
+     "sticker": null,
+     "text": "Día 7. Agradece una cosa pequeña de este año.",
+     "path": "stories/2026-12-22/02_novena.png",
+     "publicacion": "programable en Metricool"
+    },
+    {
+     "file": "03_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Pedir ayuda no es debilidad. Es inteligencia.",
+     "path": "stories/2026-12-22/03_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-23",
+   "camp": "burn",
+   "folder": "stories/2026-12-23",
+   "items": [
+    {
+     "file": "01_camp.png",
+     "type": "camp",
+     "sticker": null,
+     "text": "¿Te despiertas cansado aunque duermas?",
+     "path": "stories/2026-12-23/01_camp.png",
+     "publicacion": "programable en Metricool"
+    },
+    {
+     "file": "02_camp_poll.png",
+     "type": "camp_poll",
+     "sticker": "encuesta: sí / a veces / no",
+     "text": "¿Te ha pasado?",
+     "path": "stories/2026-12-23/02_camp_poll.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "03_camp_link.png",
+     "type": "camp_link",
+     "sticker": "enlace: WhatsApp +57 319 681 7123",
+     "text": "Hablemos por WhatsApp.",
+     "path": "stories/2026-12-23/03_camp_link.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "04_novena.png",
+     "type": "novena",
+     "sticker": null,
+     "text": "Día 8. Respira antes de la última recta.",
+     "path": "stories/2026-12-23/04_novena.png",
+     "publicacion": "programable en Metricool"
+    },
+    {
+     "file": "05_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "No tienes que ponerte al día con todo hoy.",
+     "path": "stories/2026-12-23/05_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-24",
+   "camp": "burn",
+   "folder": "stories/2026-12-24",
+   "items": [
+    {
+     "file": "01_novena.png",
+     "type": "novena",
+     "sticker": null,
+     "text": "Día 9. Nochebuena: que sea a tu manera.",
+     "path": "stories/2026-12-24/01_novena.png",
+     "publicacion": "programable en Metricool"
+    },
+    {
+     "file": "02_lines.png",
+     "type": "lines",
+     "sticker": null,
+     "text": null,
+     "path": "stories/2026-12-24/02_lines.png",
+     "publicacion": "programable en Metricool"
+    },
+    {
+     "file": "03_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Lo que sientes tiene sentido.",
+     "path": "stories/2026-12-24/03_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-25",
+   "camp": "burn",
+   "folder": "stories/2026-12-25",
+   "items": [
+    {
+     "file": "01_poll.png",
+     "type": "poll",
+     "sticker": "deslizador",
+     "text": "¿Cómo te sientes hoy, de verdad?",
+     "path": "stories/2026-12-25/01_poll.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "02_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Descansar también es productivo.",
+     "path": "stories/2026-12-25/02_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-26",
+   "camp": "burn",
+   "folder": "stories/2026-12-26",
+   "items": [
+    {
+     "file": "01_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Hoy basta con hacer una cosa a la vez.",
+     "path": "stories/2026-12-26/01_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-27",
+   "camp": "burn",
+   "folder": "stories/2026-12-27",
+   "items": [
+    {
+     "file": "01_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "No tienes que estar “muy mal” para hablar con alguien.",
+     "path": "stories/2026-12-27/01_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-28",
+   "camp": "burn",
+   "folder": "stories/2026-12-28",
+   "items": [
+    {
+     "file": "01_slider.png",
+     "type": "slider",
+     "sticker": "deslizador: ☀️ → 🌧️",
+     "text": "¿Cómo está tu clima hoy?",
+     "path": "stories/2026-12-28/01_slider.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "02_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Mereces sentirte bien.",
+     "path": "stories/2026-12-28/02_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-29",
+   "camp": "burn",
+   "folder": "stories/2026-12-29",
+   "items": [
+    {
+     "file": "01_eto.png",
+     "type": "eto",
+     "sticker": "encuesta: esto o aquello",
+     "text": "¿Fin de año en casa",
+     "path": "stories/2026-12-29/01_eto.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "02_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Tu ritmo también es válido.",
+     "path": "stories/2026-12-29/02_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-30",
+   "camp": "burn",
+   "folder": "stories/2026-12-30",
+   "items": [
+    {
+     "file": "01_camp.png",
+     "type": "camp",
+     "sticker": null,
+     "text": "Enero no tiene que empezar con el tanque vacío.",
+     "path": "stories/2026-12-30/01_camp.png",
+     "publicacion": "programable en Metricool"
+    },
+    {
+     "file": "02_camp_poll.png",
+     "type": "camp_poll",
+     "sticker": "encuesta: sí / a veces / no",
+     "text": "¿Te ha pasado?",
+     "path": "stories/2026-12-30/02_camp_poll.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "03_camp_link.png",
+     "type": "camp_link",
+     "sticker": "enlace: WhatsApp +57 319 681 7123",
+     "text": "Hablemos por WhatsApp.",
+     "path": "stories/2026-12-30/03_camp_link.png",
+     "publicacion": "manual (sticker interactivo)"
+    },
+    {
+     "file": "04_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Decir que no también es cuidarte.",
+     "path": "stories/2026-12-30/04_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-31",
+   "camp": "burn",
+   "folder": "stories/2026-12-31",
+   "items": [
+    {
+     "file": "01_lines.png",
+     "type": "lines",
+     "sticker": null,
+     "text": null,
+     "path": "stories/2026-12-31/01_lines.png",
+     "publicacion": "programable en Metricool"
+    },
+    {
+     "file": "02_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Hoy puedes ser amable contigo.",
+     "path": "stories/2026-12-31/02_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-01",
+   "camp": "burn",
+   "folder": "stories/2027-01-01",
+   "items": [
+    {
+     "file": "01_iso.png",
+     "type": "iso",
+     "sticker": null,
+     "text": "Feliz 2027.",
+     "path": "stories/2027-01-01/01_iso.png",
+     "publicacion": "programable en Metricool"
+    },
+    {
+     "file": "02_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Respira. Esto también pasa.",
+     "path": "stories/2027-01-01/02_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-02",
+   "camp": "burn",
+   "folder": "stories/2027-01-02",
+   "items": [
+    {
+     "file": "01_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "No estás solo en esto.",
+     "path": "stories/2027-01-02/01_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-03",
+   "camp": "burn",
+   "folder": "stories/2027-01-03",
+   "items": [
+    {
+     "file": "01_reminder.png",
+     "type": "reminder",
+     "sticker": null,
+     "text": "Pedir ayuda no es debilidad. Es inteligencia.",
+     "path": "stories/2027-01-03/01_reminder.png",
+     "publicacion": "programable en Metricool"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "marca": "Psiclín (@psiclinmed)",
+  "rango": "2026-11-16 a 2027-01-03",
+  "zona_horaria": "America/Bogota",
+  "nota": "Imágenes 1080x1350 (posts) y 1080x1920 (historias). Para programar en Metricool las imágenes deben estar en URLs públicas (por ejemplo raw.githubusercontent.com con el repo público, o GitHub Pages)."
+ }
+}

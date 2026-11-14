@@ -1,0 +1,387 @@
+# -*- coding: utf-8 -*-
+# Contenido final Psiclín · Instagram · 16 nov 2026 – 3 ene 2027
+DISC = "contenido educativo. no reemplaza una evaluación profesional."
+ANX, BURN = "anx", "burn"
+
+POSTS = [
+# ---------------- SEMANA 1 · ansiedad ----------------
+dict(id="P01", date="2026-11-16", time="10:00", week=1, camp=ANX, moment="Festivo (Independencia de Cartagena) · inicio de semana",
+ kind="carousel", pillar="Formato nuevo · Pronóstico emocional #1",
+ slides=[
+  dict(t="weather", semana="16 – 22 nov", title="pronóstico emocional de la semana", temp="festivo",
+       rows=[("sol","Lunes festivo: descanso sin culpa","100 %"),("nube","Martes: síndrome post-puente","70 %"),("corazon","Jueves 19: Día del Hombre","hablar ayuda"),("viento","Sábado 21: Día del Saludo","¿cómo estás?")]),
+  dict(t="weather_tip", head="recomendación de la semana", tip="si el martes te cuesta arrancar, no es pereza: es aterrizaje. empieza por una sola cosa.", note="una sola"),
+  dict(t="weather_close", q="¿Cómo está tu clima hoy?", sub="cuéntanos en los comentarios. cada lunes, un pronóstico nuevo.", note="vuelve el lunes"),
+ ],
+ caption="llegó el pronóstico emocional de la semana.\n\nun lunes festivo para descansar sin culpa, un martes cuesta arriba, un jueves para hablar de cómo están los hombres de tu vida y un sábado para preguntarle a alguien cómo está de verdad.\n\n¿cómo viene tu clima esta semana? cuéntanos en los comentarios.\n\ncada lunes publicamos un pronóstico nuevo. guárdalo para no perderte el próximo.",
+ tags=["#Psiclín","#SaludMental","#PsicologíaMedellín","#BienestarEmocional","#Medellín"],
+ alt="Tarjeta con estilo de app del clima: pronóstico emocional de la semana del 16 al 22 de noviembre en Medellín, con lunes festivo, martes post-puente, Día del Hombre y Día del Saludo."),
+
+dict(id="P02", date="2026-11-17", time="19:00", week=1, camp=ANX, moment="Regreso del puente festivo",
+ kind="single", pillar="Validador",
+ slides=[dict(t="crema", head="Volver del puente también cuesta.", sub="no es pereza. el cuerpo volvió hoy; la cabeza todavía está aterrizando.", note="date el día")],
+ caption="si hoy te está costando arrancar, no estás solo.\n\ndespués de un puente, el cuerpo vuelve más rápido que la cabeza. hoy no tienes que ponerte al día con todo: elige una sola cosa y empieza por ahí.\n\nguárdalo para el próximo festivo.",
+ tags=["#Psiclín","#SaludMental","#Autocuidado","#PsicologíaMedellín","#Medellín"],
+ alt="Fondo crema con el texto: Volver del puente también cuesta. No es pereza."),
+
+dict(id="P03", date="2026-11-18", time="19:00", week=1, camp=ANX, moment="Campaña ansiedad 1/4 · enganche",
+ kind="carousel", pillar="Campaña · Ansiedad",
+ slides=[
+  dict(t="camp_hook", hook="¿Tienes ansiedad sin saberlo?", note="desliza"),
+  dict(t="camp_list", items=["te cuesta relajarte, incluso cuando descansas","el cuerpo está tenso y no sabes por qué","le das vueltas a todo lo que puede salir mal","duermes, pero no descansas"]),
+  dict(t="camp_close", line="Si te reconociste…<br>hablemos.", cta="Empezar el test · link en la bio", note="sin presión"),
+ ],
+ caption="la ansiedad no siempre se ve como nervios.\n\na veces se ve como no poder parar, como un cuerpo que no descansa o una cabeza que no se apaga en la noche.\n\nsi te reconociste en alguna, hicimos un test de 7 preguntas para que entiendas mejor cómo estás. está en el link de la bio. no es un diagnóstico: es un primer paso.\n\ny si quieres, hablemos.\n\n"+DISC,
+ tags=["#Psiclín","#Ansiedad","#SaludMental","#PsicologíaMedellín","#TestDeAnsiedad"],
+ alt="Carrusel morado y lima: ¿Tienes ansiedad sin saberlo? Cuatro señales y una invitación a hacer el test."),
+
+dict(id="P04", date="2026-11-19", time="19:00", week=1, camp=ANX, moment="Día Internacional del Hombre · Movember",
+ kind="carousel", pillar="Normalizador",
+ slides=[
+  dict(t="photo_hook", img="cobija", head="Los hombres también se cansan de aguantar.", note="19 de noviembre", tag="Día Internacional del Hombre"),
+  dict(t="strike_list", title="Frases que muchos crecieron escuchando", items=["“los hombres no lloran”","“aguante, que eso no es pa’ tanto”","“resuelva solo”"], note="ya no"),
+  dict(t="check_list", title="También es de hombres", items=["decir “no estoy bien”","pedir ayuda a tiempo","hablar de lo que pesa"], note="sí, también"),
+  dict(t="cta_end", head="Hoy, hablemos.", sub="si eres tú, o alguien que quieres, este es un buen día para empezar.", cta="Hablemos · link en la bio"),
+ ],
+ caption="hoy es el día internacional del hombre.\n\na muchos les enseñaron a aguantar callados: a no llorar, a resolver solos, a decir \"todo bien\" aunque no lo esté.\n\npedir ayuda también es de hombres.\n\nsi eres tú, o alguien que quieres, este es un buen día para hablar. envíaselo a quien lo necesite.\n\n"+DISC,
+ tags=["#Psiclín","#DíaInternacionalDelHombre","#SaludMentalMasculina","#Movember","#PsicologíaMedellín"],
+ alt="Foto de un hombre en penumbra con el texto: Los hombres también se cansan de aguantar. Siguen frases tachadas y una invitación a hablar."),
+
+dict(id="P05", date="2026-11-20", time="19:00", week=1, camp=ANX, moment="Día Universal del Niño",
+ kind="carousel", pillar="Educativo",
+ slides=[
+  dict(t="icons", head="Los niños también tienen días difíciles.", items=[("luna","el sueño"),("libro","el colegio"),("juego","el juego"),("nube","el genio")], sub="no siempre lo dicen con palabras. a veces se nota en:", note="día universal del niño"),
+  dict(t="check_list", title="3 cosas que puedes hacer hoy", items=["preguntar sin interrogar: “¿qué fue lo mejor y lo más difícil de tu día?”","escuchar antes de corregir","validar: “tiene sentido que te sientas así”"], note="hoy mismo"),
+  dict(t="cta_end", head="Si algo te preocupa, no tienes que resolverlo solo.", sub="acompañamos a niños y familias con psicología infantil y neuropsicología.", cta="Hablemos · link en la bio"),
+ ],
+ caption="hoy es el día universal del niño.\n\nlos niños también tienen días difíciles, aunque no siempre sepan ponerlos en palabras: a veces se nota en el sueño, en el colegio, en el juego o en el genio.\n\nte dejamos 3 cosas que puedes hacer hoy mismo.\n\nsi algo te preocupa, en psiclín acompañamos a niños y familias con psicología infantil y neuropsicología. escríbenos.\n\n"+DISC,
+ tags=["#Psiclín","#DíaDelNiño","#PsicologíaInfantil","#Neuropsicología","#CrianzaConsciente"],
+ alt="Carrusel celeste: Los niños también tienen días difíciles, con íconos de sueño, colegio, juego y genio, y tres consejos para padres."),
+
+dict(id="P06", date="2026-11-21", time="11:00", week=1, camp=ANX, moment="Día Mundial del Saludo (sábado)",
+ kind="single", pillar="Reflexivo",
+ slides=[dict(t="photo_hook", img="tazas", head="Hoy es el Día del Saludo: ¿cómo estás de verdad?", note="no el “bien, ¿y tú?”", tag="21 de noviembre")],
+ caption="hoy es el día mundial del saludo.\n\nte proponemos algo: escríbele a alguien y pregúntale \"¿cómo estás de verdad?\". no el \"bien, ¿y tú?\" de siempre.\n\ny si alguien te lo pregunta a ti, date permiso de responder distinto.\n\n¿a quién se lo vas a enviar?",
+ tags=["#Psiclín","#DíaMundialDelSaludo","#SaludMental","#Conversaciones","#Medellín"],
+ alt="Foto de dos tazas de café sobre una mesa de madera con el texto: Hoy es el Día del Saludo, ¿cómo estás de verdad?"),
+
+# ---------------- SEMANA 2 · ansiedad ----------------
+dict(id="P07", date="2026-11-23", time="19:00", week=2, camp=ANX, moment="Semana de Black Friday",
+ kind="carousel", pillar="Formato nuevo · Pronóstico emocional #2",
+ slides=[
+  dict(t="weather", semana="23 – 29 nov", title="pronóstico emocional de la semana", temp="black friday",
+       rows=[("viento","Compras para sentirte mejor","70 %"),("corazon","Antojo de “me lo merezco”","80 %"),("nube","Pendientes de fin de año","nublado"),("sol","Un rato para ti","si lo agendas")]),
+  dict(t="weather_tip", head="recomendación de la semana", tip="antes de pagar, respira 10 segundos y pregúntate: ¿lo quiero, o quiero sentirme mejor?", note="10 segundos"),
+  dict(t="weather_close", q="¿Cómo está tu clima hoy?", sub="cuéntanos en los comentarios. el jueves te damos 3 preguntas para comprar con calma.", note="vuelve el jueves"),
+ ],
+ caption="pronóstico emocional de la semana del black friday.\n\nalta probabilidad de comprar algo para sentirte mejor, ráfagas de \"me lo merezco\" y nubosidad de pendientes de fin de año.\n\nla recomendación: antes de pagar, respira 10 segundos. no para que no compres, sino para que decidas tú y no el cansancio.\n\n¿cómo viene tu clima? cuéntanos en los comentarios.",
+ tags=["#Psiclín","#BlackFriday","#SaludMental","#PsicologíaMedellín","#BienestarEmocional"],
+ alt="Tarjeta estilo app del clima: pronóstico emocional de la semana del Black Friday, del 23 al 29 de noviembre."),
+
+dict(id="P08", date="2026-11-24", time="19:00", week=2, camp=ANX, moment="Mitad de semana",
+ kind="carousel", pillar="Mito vs. realidad",
+ slides=[
+  dict(t="mito", text="Ir al psicólogo es para casos graves.", note="desliza"),
+  dict(t="realidad", text="Es para cualquiera que quiera entenderse mejor.", sub="no tienes que estar “muy mal” para pedir ayuda."),
+ ],
+ caption="mito: ir al psicólogo es para casos graves.\nrealidad: es para cualquiera que quiera entenderse mejor.\n\nno tienes que esperar a no poder más. la terapia también sirve para ordenar lo que sientes, tomar decisiones o simplemente tener un espacio para ti.\n\nenvíaselo a esa persona que siempre dice \"eso no es pa' tanto\".",
+ tags=["#Psiclín","#MitosDeLaTerapia","#SaludMental","#IrAlPsicólogo","#PsicologíaMedellín"],
+ alt="Dos tarjetas: el mito 'ir al psicólogo es para casos graves' tachado, y la realidad 'es para cualquiera que quiera entenderse mejor'."),
+
+dict(id="P09", date="2026-11-25", time="19:00", week=2, camp=ANX, moment="Campaña ansiedad 2/4 · el test",
+ kind="carousel", pillar="Campaña · Ansiedad",
+ slides=[
+  dict(t="camp_number", num="7", text="preguntas para entender cómo estás"),
+  dict(t="camp_steps", title="Así funciona", steps=["respondes 7 preguntas (2 minutos)","ves tu resultado al instante","si quieres, hablamos por WhatsApp"]),
+  dict(t="camp_close", line="Si te reconociste…<br>hablemos.", cta="Empezar el test · link en la bio", note="el resultado es para ti"),
+ ],
+ caption="7 preguntas. 2 minutos. un resultado que es solo para ti.\n\nnuestro test de ansiedad te ayuda a ponerle palabras a lo que sientes. no es un diagnóstico: es un primer paso para entenderte mejor.\n\nsi después quieres hablar, te acompañamos por whatsapp.\n\nlink en la bio.\n\n"+DISC,
+ tags=["#Psiclín","#Ansiedad","#TestDeAnsiedad","#SaludMental","#PsicologíaMedellín"],
+ alt="Carrusel morado y lima con un 7 gigante: 7 preguntas para entender cómo estás, y los pasos del test."),
+
+dict(id="P10", date="2026-11-26", time="19:00", week=2, camp=ANX, moment="Víspera de Black Friday",
+ kind="carousel", pillar="Tip práctico",
+ slides=[
+  dict(t="photo_hook", img="celular", head="3 preguntas antes de pagar con el corazón.", note="guárdalo para mañana", tag="antes del black friday"),
+  dict(t="question", n="1", q="¿Lo quiero, o quiero sentirme mejor?", sub="a veces el carrito es un lugar para calmar el estrés."),
+  dict(t="question", n="2", q="¿Lo voy a querer igual mañana?", sub="si la respuesta es “no sé”, dale un día."),
+  dict(t="question", n="3", q="¿Qué estoy sintiendo ahora mismo?", sub="cansancio, aburrimiento, tristeza… ponerle nombre ya baja la urgencia."),
+  dict(t="summary", title="Guárdalo", items=["¿lo quiero o quiero sentirme mejor?","¿lo querré mañana?","¿qué siento ahora?"], sub="si comprar se volvió tu forma de calmarte, hablemos."),
+ ],
+ caption="mañana es black friday. antes de pagar, 3 preguntas:\n\n1. ¿lo quiero, o quiero sentirme mejor?\n2. ¿lo voy a querer igual mañana?\n3. ¿qué estoy sintiendo ahora mismo?\n\nno se trata de no comprar, sino de comprar desde la calma.\n\nguárdalo para mañana y compártelo con tu compañero de compras.",
+ tags=["#Psiclín","#BlackFriday","#ComprasConscientes","#SaludMental","#PsicologíaMedellín"],
+ alt="Carrusel con foto de una mano sosteniendo un celular y tres preguntas para hacerse antes de comprar en Black Friday."),
+
+dict(id="P11", date="2026-11-27", time="12:00", week=2, camp=ANX, moment="Black Friday",
+ kind="single", pillar="Normalizador · humor",
+ slides=[dict(t="coral_tag", head="Black Friday: 100 % de descuento en culpa por descansar.", note="oferta que no se agota", tag="-100 %")],
+ caption="hoy todo tiene descuento. esto también: 100 % menos culpa por descansar.\n\nla oferta no se agota y no tiene letra pequeña.\n\netiqueta a quien necesita aprovecharla.",
+ tags=["#Psiclín","#BlackFriday","#Descansar","#SaludMental","#Medellín"],
+ alt="Fondo coral con una etiqueta de precio dibujada y el texto: Black Friday, 100 % de descuento en culpa por descansar."),
+
+# ---------------- SEMANA 3 · ansiedad ----------------
+dict(id="P12", date="2026-11-30", time="19:00", week=3, camp=ANX, moment="Último día de noviembre · llega diciembre",
+ kind="carousel", pillar="Formato nuevo · Pronóstico emocional #3",
+ slides=[
+  dict(t="weather", semana="30 nov – 6 dic", title="pronóstico emocional de la semana", temp="diciembre",
+       rows=[("nube","“Ya es diciembre y no hice nada”","85 %"),("viento","Agenda de reuniones","alta"),("estrella","Alumbrados y planes","en camino"),("sol","Lista de lo que sí hiciste","100 %")]),
+  dict(t="weather_tip", head="recomendación de la semana", tip="haz una lista de lo que sí lograste este año. aunque sea pequeño, cuenta.", note="cuenta"),
+  dict(t="weather_close", q="¿Cómo está tu clima hoy?", sub="cuéntanos en los comentarios. diciembre se vive mejor acompañado.", note="vuelve el lunes"),
+ ],
+ caption="pronóstico emocional: llega diciembre.\n\n85 % de probabilidad de pensar \"ya es diciembre y no hice nada\". vientos de reuniones y planes.\n\nla recomendación: haz la lista de lo que sí lograste. aunque sea pequeño, cuenta.\n\n¿qué va primero en tu lista? cuéntanos.",
+ tags=["#Psiclín","#Diciembre","#SaludMental","#PsicologíaMedellín","#BienestarEmocional"],
+ alt="Tarjeta estilo app del clima: pronóstico emocional para la semana del 30 de noviembre al 6 de diciembre."),
+
+dict(id="P13", date="2026-12-01", time="19:00", week=3, camp=ANX, moment="1 de diciembre · arranca la temporada",
+ kind="single", pillar="Normalizador",
+ slides=[dict(t="crema_list", head="Cuidar tu mente en diciembre es tan normal como hacer la lista de regalos.", items=["regalos","novenas","alumbrados","yo"], note="pon tu mente en la lista")],
+ caption="llegó diciembre y con él la lista: regalos, novenas, alumbrados, reuniones.\n\ntú también vas en esa lista.\n\ncuidar tu mente en diciembre es tan normal como hacer la lista de regalos. guárdalo y recuérdatelo cuando la agenda se llene.",
+ tags=["#Psiclín","#Diciembre","#Autocuidado","#SaludMental","#PsicologíaMedellín"],
+ alt="Fondo crema con una lista escrita a mano: regalos, novenas, alumbrados y yo, sin marcar."),
+
+dict(id="P14", date="2026-12-02", time="19:00", week=3, camp=ANX, moment="Campaña ansiedad 3/4 · refuerzo",
+ kind="carousel", pillar="Campaña · Ansiedad",
+ slides=[
+  dict(t="camp_hook", hook="¿La ansiedad se coló en tus fiestas?", note="desliza"),
+  dict(t="camp_list", items=["regalos, cierres, reuniones y novenas","el cuerpo no descansa aunque haya vacaciones","te cuesta disfrutar porque piensas en lo que falta","el celular no se suelta ni en la mesa"]),
+  dict(t="camp_close", line="Si te reconociste…<br>hablemos.", cta="Empezar el test · link en la bio", note="a tu ritmo"),
+ ],
+ caption="diciembre trae cosas lindas y también mucha carga: regalos, cierres, reuniones, novenas.\n\nsi el cuerpo no descansa aunque haya vacaciones, o te cuesta disfrutar porque piensas en todo lo que falta, puede que la ansiedad se haya colado en tus fiestas.\n\nhaz el test de 7 preguntas (link en la bio) y, si quieres, hablemos.\n\n"+DISC,
+ tags=["#Psiclín","#Ansiedad","#Diciembre","#SaludMental","#PsicologíaMedellín"],
+ alt="Carrusel morado y lima: ¿La ansiedad se coló en tus fiestas? Cuatro señales y una invitación a hablar."),
+
+dict(id="P15", date="2026-12-03", time="19:00", week=3, camp=ANX, moment="Primera semana de diciembre",
+ kind="carousel", pillar="Detrás de Psiclín",
+ slides=[
+  dict(t="photo_hook", img="sillon", head="No somos el psicólogo de las pelis.", note="¿diván? no", tag="así es por dentro"),
+  dict(t="strike_list", title="En las pelis", items=["un diván y alguien tomando notas en silencio","te juzgan por lo que cuentas","cuentas toda tu infancia el primer día"], note="nop"),
+  dict(t="check_list", title="En Psiclín", items=["un sillón cómodo y algo caliente para tomar","nadie te juzga","la primera sesión es para conocernos"], note="así sí"),
+  dict(t="cta_end", head="Tú pones el ritmo.", sub="presencial en laureles · la floresta, o en línea.", cta="Hablemos · link en la bio"),
+ ],
+ caption="no somos el psicólogo de las pelis.\n\nno hay diván, nadie te juzga y no tienes que contar toda tu vida el primer día. la primera sesión es para conocernos y que tú decidas a qué ritmo vamos.\n\nsi llevas tiempo pensándolo, escríbenos. link en la bio.",
+ tags=["#Psiclín","#PrimeraSesión","#TerapiaPsicológica","#PsicologíaMedellín","#Laureles"],
+ alt="Foto de un sillón junto a una ventana con el texto: No somos el psicólogo de las pelis, y una comparación entre las películas y Psiclín."),
+
+dict(id="P16", date="2026-12-04", time="19:00", week=3, camp=ANX, moment="Primer fin de semana de fiestas",
+ kind="single", pillar="Validador",
+ slides=[dict(t="quote_dark", quote="Estar bien para todos y mal por dentro también cansa.", sign="lo que sientes tiene sentido")],
+ caption="estar bien para todos y mal por dentro también cansa.\n\nsi este fin de semana te toca sonreír en todas partes, recuerda que contigo no tienes que fingir.\n\nlo que sientes tiene sentido. y si quieres hablarlo, aquí estamos.",
+ tags=["#Psiclín","#SaludMental","#Validación","#PsicologíaMedellín","#Medellín"],
+ alt="Fondo azul profundo con comillas coral y la frase: Estar bien para todos y mal por dentro también cansa."),
+
+# ---------------- SEMANA 4 · ansiedad (cierre) ----------------
+dict(id="P17", date="2026-12-07", time="17:00", week=4, camp=ANX, moment="Día de las Velitas",
+ kind="single", pillar="Reflexivo",
+ slides=[dict(t="photo_hook", img="velitas", head="¿Qué lograste este año que nadie vio?", note="noche de velitas", tag="7 de diciembre", dark=True)],
+ caption="esta noche prendemos velitas.\n\nte proponemos prender una por algo que lograste este año y que nadie vio: levantarte en un día difícil, pedir ayuda, decir que no, seguir.\n\ncuéntanos en los comentarios por qué vas a prender la tuya.",
+ tags=["#Psiclín","#DíaDeLasVelitas","#NocheDeVelitas","#SaludMental","#Medellín"],
+ alt="Foto de la llama de una vela en la oscuridad con el texto: ¿Qué lograste este año que nadie vio?"),
+
+dict(id="P18", date="2026-12-08", time="11:00", week=4, camp=ANX, moment="Festivo · Inmaculada Concepción",
+ kind="carousel", pillar="Mito vs. realidad",
+ slides=[
+  dict(t="mito", text="En diciembre no se va al psicólogo.", note="desliza"),
+  dict(t="realidad", text="Diciembre es cuando más pesa.", sub="tu espacio también existe en temporada. en persona o en línea."),
+ ],
+ caption="mito: en diciembre no se va al psicólogo.\nrealidad: diciembre es cuando más pesa.\n\nlas fiestas traen alegría, pero también cansancio, cuentas, ausencias y reuniones difíciles. tu espacio no se toma vacaciones.\n\natendemos en persona y en línea. escríbenos.",
+ tags=["#Psiclín","#MitosDeLaTerapia","#Diciembre","#SaludMental","#PsicologíaMedellín"],
+ alt="Dos tarjetas: el mito 'en diciembre no se va al psicólogo' tachado, y la realidad 'diciembre es cuando más pesa'."),
+
+dict(id="P19", date="2026-12-09", time="19:00", week=4, camp=ANX, moment="Campaña ansiedad 4/4 · cierre",
+ kind="carousel", pillar="Campaña · Ansiedad",
+ slides=[
+  dict(t="camp_hook", hook="Si te reconociste… hablemos.", note="desliza"),
+  dict(t="camp_list", items=["no tienes que estar “muy mal” para empezar","la primera sesión es para conocernos","tú pones el ritmo","en persona o en línea"]),
+  dict(t="camp_close", line="Tu espacio ya<br>te está esperando.", cta="Hablemos · WhatsApp en la bio", note="sin presión"),
+ ],
+ caption="cerramos el mes de la ansiedad con una invitación sencilla: si te reconociste en algo de lo que hablamos, hablemos.\n\nno tienes que estar \"muy mal\" para empezar. la primera sesión es para conocernos, y tú pones el ritmo.\n\nescríbenos por whatsapp (link en la bio).\n\n"+DISC,
+ tags=["#Psiclín","#Ansiedad","#SaludMental","#PsicologíaMedellín","#PrimeraSesión"],
+ alt="Carrusel morado y lima: Si te reconociste, hablemos. Cuatro razones para empezar y una invitación a escribir por WhatsApp."),
+
+dict(id="P20", date="2026-12-10", time="19:00", week=4, camp=ANX, moment="Día de los Derechos Humanos",
+ kind="single", pillar="Normalizador",
+ slides=[dict(t="icons", head="Cuidar tu salud mental también es un derecho.", items=[("escudo","derecho"),("corazon","cuidado"),("sol","calma")], sub="pedir ayuda no es un lujo ni un exceso.", note="10 de diciembre")],
+ caption="hoy es el día de los derechos humanos.\n\ncuidar tu salud mental también es un derecho. pedir ayuda no es un lujo, ni un exceso, ni una debilidad.\n\nrecuerda que tu eps también está obligada a prestar atención en psicología y psiquiatría. y si prefieres atención particular, en psiclín te escuchamos.",
+ tags=["#Psiclín","#DerechosHumanos","#SaludMental","#PsicologíaMedellín","#Medellín"],
+ alt="Fondo celeste con íconos de escudo, corazón y sol, y el texto: Cuidar tu salud mental también es un derecho."),
+
+dict(id="P21", date="2026-12-11", time="19:00", week=4, camp=ANX, moment="Fin de semana de alumbrados",
+ kind="single", pillar="Detrás de Psiclín · micromomento",
+ slides=[dict(t="photo_hook", img="tazas", head="“Te lo mereces. En serio.”", note="el vasito", tag="así te recibimos")],
+ photo_todo="Reemplazar por la foto real del vasito con la frase en la sala de espera.",
+ caption="así te recibe el vasito de nuestra sala de espera: \"te lo mereces. en serio.\"\n\nporque los detalles también cuidan. y porque llegar a terapia ya es hacer algo por ti.\n\n¿ya lo viste en persona?",
+ tags=["#Psiclín","#DetrásDePsiclín","#SaludMental","#PsicologíaMedellín","#Laureles"],
+ alt="Foto de una mesa con tazas y la frase: Te lo mereces. En serio."),
+
+# ---------------- SEMANA 5 · burnout ----------------
+dict(id="P22", date="2026-12-14", time="19:00", week=5, camp=BURN, moment="Semana de novenas y prima",
+ kind="carousel", pillar="Formato nuevo · Pronóstico emocional #4",
+ slides=[
+  dict(t="weather", semana="14 – 20 dic", title="pronóstico emocional de la semana", temp="novenas",
+       rows=[("viento","“¿Y el novio?” en la novena","90 %"),("nube","Gastos de regalos","70 %"),("estrella","Buñuelos y natilla","garantizados"),("sol","Respuesta corta preparada","te salva")]),
+  dict(t="weather_tip", head="recomendación de la semana", tip="ten lista una respuesta corta y amable para las preguntas incómodas. el jueves te damos tres.", note="te salva"),
+  dict(t="weather_close", q="¿Cómo está tu clima hoy?", sub="cuéntanos cuál es la pregunta que más te hacen en las novenas.", note="vuelve el jueves"),
+ ],
+ caption="pronóstico emocional: semana de novenas.\n\n90 % de probabilidad de \"¿y el novio?\", nubosidad de gastos y buñuelos garantizados.\n\nla recomendación: ten lista una respuesta corta y amable. el jueves te compartimos tres.\n\n¿cuál es la pregunta que más te hacen en las novenas?",
+ tags=["#Psiclín","#Novenas","#Diciembre","#SaludMental","#PsicologíaMedellín"],
+ alt="Tarjeta estilo app del clima: pronóstico emocional para la semana de novenas, del 14 al 20 de diciembre."),
+
+dict(id="P23", date="2026-12-15", time="19:00", week=5, camp=BURN, moment="Antes de las novenas",
+ kind="carousel", pillar="Educativo",
+ slides=[
+  dict(t="icons", head="El cansancio de diciembre no siempre es físico.", items=[("luna","sueño"),("nube","mente"),("corazon","emociones")], sub="a veces es sueño, a veces es mente, a veces es todo junto.", note="desliza"),
+  dict(t="check_list", title="Cansancio que se va con descanso", items=["mejora después de dormir bien","aparece después de un día pesado","tienes ganas de tus planes"], note="normal"),
+  dict(t="check_list", title="Cansancio que vale la pena hablar", items=["no se va aunque descanses","dura semanas","te desconecta de lo que te gustaba"], note="ojo", warn=True),
+  dict(t="cta_end", head="Si llevas semanas así, no es flojera.", sub="hablemos.", cta="Hablemos · link en la bio"),
+ ],
+ caption="el cansancio de diciembre no siempre es físico.\n\nhay un cansancio que se va con una buena noche de sueño. y hay otro que no se va aunque descanses, dura semanas y te desconecta de lo que te gustaba.\n\nsi te pasa lo segundo, no es flojera. vale la pena hablarlo.\n\n"+DISC,
+ tags=["#Psiclín","#Burnout","#Agotamiento","#SaludMental","#PsicologíaMedellín"],
+ alt="Carrusel celeste: El cansancio de diciembre no siempre es físico, con la diferencia entre el cansancio que se va con descanso y el que vale la pena hablar."),
+
+dict(id="P24", date="2026-12-16", time="19:00", week=5, camp=BURN, moment="Campaña burnout 1/3 · primera novena",
+ kind="carousel", pillar="Campaña · Burnout",
+ slides=[
+  dict(t="camp_hook", hook="¿Estás cansado de estar cansado?", note="desliza"),
+  dict(t="camp_list", items=["ni el descanso te descansa","te cuesta arrancar desde que suena la alarma","todo te irrita más de lo normal","sientes que das y das, y no te queda nada"]),
+  dict(t="camp_close", line="Si te reconociste…<br>hablemos.", cta="Hablemos · link en la bio", note="no es flojera"),
+ ],
+ caption="hoy empiezan las novenas. y para muchos, diciembre llega con el tanque vacío.\n\nsi ni el descanso te descansa, te cuesta arrancar desde que suena la alarma o sientes que das y das y no te queda nada, puede ser agotamiento.\n\nno es flojera. hablemos.\n\n"+DISC,
+ tags=["#Psiclín","#Burnout","#Agotamiento","#SaludMental","#PsicologíaMedellín"],
+ alt="Carrusel naranja y crema: ¿Estás cansado de estar cansado? Cuatro señales de agotamiento y una invitación a hablar."),
+
+dict(id="P25", date="2026-12-17", time="19:00", week=5, camp=BURN, moment="Novenas · guion exacto",
+ kind="carousel", pillar="Tip práctico",
+ slides=[
+  dict(t="photo_hook", img="manos", head="3 frases para la novena cuando te preguntan lo que no quieres responder.", note="guárdalo", tag="guion exacto"),
+  dict(t="question", n="1", q="“Eso lo hablamos otro día.”", sub="para el “¿y el novio?” o el “¿y los hijos para cuándo?”."),
+  dict(t="question", n="2", q="“Estoy en eso, gracias por preguntar.”", sub="para el trabajo, la tesis o cualquier plan."),
+  dict(t="question", n="3", q="“Cuéntame tú, ¿cómo te fue este año?”", sub="la pregunta de vuelta: cambia el tema con cariño."),
+  dict(t="summary", title="Guárdalo para la novena", items=["“eso lo hablamos otro día”","“estoy en eso, gracias”","“cuéntame tú”"], sub="poner límites también es una forma de cuidarte."),
+ ],
+ caption="3 frases para la novena cuando te preguntan lo que no quieres responder:\n\n1. \"eso lo hablamos otro día.\"\n2. \"estoy en eso, gracias por preguntar.\"\n3. \"cuéntame tú, ¿cómo te fue este año?\"\n\ncortas, amables y sin explicaciones de más. guárdalo y envíaselo a tu primo favorito.",
+ tags=["#Psiclín","#Novenas","#Límites","#SaludMental","#PsicologíaMedellín"],
+ alt="Carrusel con foto de manos sosteniendo tazas y tres frases para responder preguntas incómodas en la novena."),
+
+dict(id="P26", date="2026-12-18", time="19:00", week=5, camp=BURN, moment="Pago de la prima · contenido sensible",
+ kind="carousel", pillar="Validador",
+ slides=[
+  dict(t="quote_dark", quote="Si diciembre te pesa, no estás exagerando.", sign="no tienes que pasarlo solo"),
+  dict(t="lines", title="Si hoy pesa demasiado, habla con alguien", lines=[("Línea 106","Medellín · 24 horas"),("(604) 444 44 48","Línea Amiga Saludable · 24 horas"),("123","emergencias")], sub="y si quieres empezar un proceso, en psiclín te escuchamos."),
+ ],
+ caption="no todo el mundo vive diciembre como en los comerciales.\n\nsi esta época trae tristeza, ausencias o soledad, lo que sientes es válido. no estás exagerando, y no tienes que pasarlo solo.\n\nsi hoy pesa demasiado, en medellín puedes llamar gratis a la línea 106 o a la línea amiga saludable (604) 444 44 48, las 24 horas. en emergencias, marca 123.\n\ny si quieres empezar un proceso, en psiclín te escuchamos.",
+ tags=["#Psiclín","#SaludMental","#Diciembre","#NoEstásSolo","#Medellín"],
+ alt="Fondo azul profundo con la frase: Si diciembre te pesa, no estás exagerando. Segunda imagen con las líneas de ayuda de Medellín: 106, (604) 444 44 48 y 123."),
+
+# ---------------- SEMANA 6 · burnout ----------------
+dict(id="P27", date="2026-12-21", time="19:00", week=6, camp=BURN, moment="Semana de Navidad",
+ kind="carousel", pillar="Formato nuevo · Pronóstico emocional #5",
+ slides=[
+  dict(t="weather", semana="21 – 27 dic", title="pronóstico emocional de la semana", temp="navidad",
+       rows=[("nube","Emociones mezcladas","toda la ciudad"),("viento","Mesas largas y sobremesas","alta"),("estrella","Abrazos que sí","recomendados"),("sol","Un rato solo para ti","necesario")]),
+  dict(t="weather_tip", head="recomendación de la semana", tip="está bien sentir de todo esta semana: alegría, nostalgia, cansancio. no tienes que elegir uno.", note="de todo"),
+  dict(t="weather_close", q="¿Cómo está tu clima hoy?", sub="cuéntanos en los comentarios. aquí no hay respuestas incorrectas.", note="vuelve el lunes"),
+ ],
+ caption="pronóstico emocional: semana de navidad.\n\nemociones mezcladas en toda la ciudad, mesas largas y una necesidad clara: un rato solo para ti.\n\nla recomendación: está bien sentir de todo esta semana. alegría, nostalgia, cansancio. no tienes que elegir uno.\n\n¿cómo viene tu clima?",
+ tags=["#Psiclín","#Navidad","#SaludMental","#PsicologíaMedellín","#BienestarEmocional"],
+ alt="Tarjeta estilo app del clima: pronóstico emocional para la semana de Navidad, del 21 al 27 de diciembre."),
+
+dict(id="P28", date="2026-12-22", time="19:00", week=6, camp=BURN, moment="Empiezan las vacaciones",
+ kind="carousel", pillar="Tip práctico",
+ slides=[
+  dict(t="pattern_hook", head="Descansar no es solo dormir.", sub="3 descansos que necesitas estas vacaciones", note="desliza"),
+  dict(t="question", n="1", q="Descanso del cuerpo.", sub="dormir, sí. pero también caminar sin prisa y comer sentado."),
+  dict(t="question", n="2", q="Descanso de la mente.", sub="un rato sin pantallas, sin pendientes y sin tener que decidir nada."),
+  dict(t="question", n="3", q="Descanso social.", sub="no tienes que ir a todos los planes. elegir también es descansar."),
+  dict(t="summary", title="Guárdalo para tus vacaciones", items=["descanso del cuerpo","descanso de la mente","descanso social"], sub="si ni así descansas, hablemos."),
+ ],
+ caption="descansar no es solo dormir.\n\nestas vacaciones necesitas tres descansos:\n1. del cuerpo: dormir, caminar sin prisa, comer sentado.\n2. de la mente: un rato sin pantallas ni pendientes.\n3. social: no ir a todos los planes también es descansar.\n\nguárdalo para tus vacaciones. y si ni así descansas, hablemos.",
+ tags=["#Psiclín","#Burnout","#Descanso","#Vacaciones","#SaludMental"],
+ alt="Carrusel con patrón de burbujas: Descansar no es solo dormir, con tres tipos de descanso: del cuerpo, de la mente y social."),
+
+dict(id="P29", date="2026-12-23", time="19:00", week=6, camp=BURN, moment="Campaña burnout 2/3",
+ kind="carousel", pillar="Campaña · Burnout",
+ slides=[
+  dict(t="camp_hook", hook="¿Te despiertas cansado aunque duermas?", note="desliza"),
+  dict(t="camp_list", items=["la alarma suena y ya estás agotado","las vacaciones no alcanzan a cargarte","te cuesta concentrarte en cosas simples","lo que antes te gustaba ahora te da pereza"]),
+  dict(t="camp_close", line="Si llevas semanas así,<br>hablemos.", cta="Hablemos · link en la bio", note="no es flojera"),
+ ],
+ caption="si te despiertas cansado aunque duermas, si las vacaciones no alcanzan a cargarte o lo que antes te gustaba ahora te da pereza, puede ser agotamiento.\n\nno es flojera ni falta de ganas. es una señal de que llevas mucho tiempo dando más de lo que tienes.\n\nsi llevas semanas así, hablemos.\n\n"+DISC,
+ tags=["#Psiclín","#Burnout","#Agotamiento","#SaludMental","#PsicologíaMedellín"],
+ alt="Carrusel naranja y crema: ¿Te despiertas cansado aunque duermas? Cuatro señales de agotamiento."),
+
+dict(id="P30", date="2026-12-24", time="10:00", week=6, camp=BURN, moment="Nochebuena",
+ kind="single", pillar="Reflexivo",
+ slides=[dict(t="photo_hook", img="sofa", head="Hoy no tienes que estar bien para todos.", note="24 de diciembre", tag="nochebuena")],
+ caption="hoy no tienes que estar bien para todos.\n\npuedes estar en la mesa y también contigo. puedes sentir alegría y extrañar a alguien al mismo tiempo.\n\nfeliz nochebuena. que sea a tu manera.",
+ tags=["#Psiclín","#Nochebuena","#Navidad","#SaludMental","#Medellín"],
+ alt="Foto de un sofá iluminado por la luz de una ventana con el texto: Hoy no tienes que estar bien para todos."),
+
+dict(id="P31", date="2026-12-25", time="10:00", week=6, camp=BURN, moment="Navidad (festivo)",
+ kind="single", pillar="Saludo de marca",
+ slides=[dict(t="iso_big", head="Gracias por dejarnos escucharte este año.", note="feliz navidad")],
+ caption="feliz navidad.\n\ngracias por dejarnos escucharte este año: por cada pregunta, cada mensaje y cada primera sesión.\n\nde parte de todo el equipo de psiclín.",
+ tags=["#Psiclín","#FelizNavidad","#Navidad","#PsicologíaMedellín","#Medellín"],
+ alt="Fondo crema con el isotipo de Psiclín y el texto: Gracias por dejarnos escucharte este año. Feliz Navidad."),
+
+# ---------------- SEMANA 7 · burnout (cierre) ----------------
+dict(id="P32", date="2026-12-28", time="10:00", week=7, camp=BURN, moment="Día de los Santos Inocentes",
+ kind="carousel", pillar="Formato nuevo · Pronóstico emocional #6 (edición Inocentes)",
+ slides=[
+  dict(t="weather", semana="28 dic – 3 ene", title="pronóstico emocional · edición inocentes", temp="inocentes",
+       rows=[("viento","Bromas por WhatsApp","100 %"),("nube","“Tengo que llegar al 31 con todo resuelto”","falso"),("estrella","Balance del año","en camino"),("sol","Llegar como llegues","está bien")]),
+  dict(t="weather_tip", head="la broma del día", tip="inocente el que cree que tiene que llegar al 31 con todo resuelto. no es broma: está bien llegar como llegues.", note="¡inocente!"),
+  dict(t="weather_close", q="¿Cómo está tu clima hoy?", sub="cuéntanos en los comentarios cómo estás cerrando el año.", note="vuelve el lunes"),
+ ],
+ caption="pronóstico emocional, edición inocentes.\n\n100 % de probabilidad de bromas por whatsapp. y una que no deberías creerte: \"tengo que llegar al 31 con todo resuelto\".\n\ninocente el que se la creyó. está bien llegar como llegues.\n\n¿cómo estás cerrando el año?",
+ tags=["#Psiclín","#DíaDeLosInocentes","#FinDeAño","#SaludMental","#PsicologíaMedellín"],
+ alt="Tarjeta estilo app del clima, edición Día de los Inocentes: pronóstico emocional para la semana del 28 de diciembre al 3 de enero."),
+
+dict(id="P33", date="2026-12-29", time="19:00", week=7, camp=BURN, moment="Semana entre fiestas",
+ kind="single", pillar="Detrás de Psiclín · equipo",
+ slides=[dict(t="quote_dark", quote="Aquí no hay respuestas incorrectas.", sign="— la frase que vive en cada consultorio")],
+ photo_todo="Opcional: segunda imagen con foto real del equipo (consentimiento de imagen).",
+ caption="\"aquí no hay respuestas incorrectas.\"\n\nes la frase que vive en cada uno de nuestros consultorios. y es la forma en que queremos acompañarte en 2027: sin juicio, a tu ritmo.\n\ngracias por un año escuchándote.",
+ tags=["#Psiclín","#DetrásDePsiclín","#SaludMental","#PsicologíaMedellín","#Laureles"],
+ alt="Fondo azul profundo con comillas coral y la frase: Aquí no hay respuestas incorrectas."),
+
+dict(id="P34", date="2026-12-30", time="19:00", week=7, camp=BURN, moment="Campaña burnout 3/3 · cierre",
+ kind="carousel", pillar="Campaña · Burnout",
+ slides=[
+  dict(t="camp_hook", hook="Enero no tiene que empezar con el tanque vacío.", note="desliza"),
+  dict(t="camp_list", items=["si llegaste agotado al final del año","si las vacaciones no alcanzaron","si te da miedo volver a la rutina","no tienes que resolverlo solo"]),
+  dict(t="camp_close", line="Si te reconociste…<br>hablemos.", cta="Hablemos · WhatsApp en la bio", note="enero empieza contigo"),
+ ],
+ caption="enero no tiene que empezar con el tanque vacío.\n\nsi llegaste agotado al final del año, si las vacaciones no alcanzaron o si te da miedo volver a la rutina, no tienes que resolverlo solo.\n\ntu espacio de enero ya te está esperando. escríbenos por whatsapp (link en la bio).\n\n"+DISC,
+ tags=["#Psiclín","#Burnout","#AñoNuevo","#SaludMental","#PsicologíaMedellín"],
+ alt="Carrusel naranja y crema: Enero no tiene que empezar con el tanque vacío. Invitación a hablar."),
+
+dict(id="P35", date="2026-12-31", time="10:00", week=7, camp=BURN, moment="Año viejo",
+ kind="single", pillar="Reflexivo interactivo",
+ slides=[dict(t="photo_hook", img="cuaderno", head="¿Qué le metes a tu año viejo este 31?", note="escríbelo y suéltalo", tag="31 de diciembre")],
+ caption="hoy se despide el año viejo.\n\n¿qué le metes al tuyo? lo que ya no quieres cargar en 2027: una culpa, un miedo, una costumbre que te pesa.\n\nescríbelo en un papel, o aquí en los comentarios, y suéltalo. (sin pólvora, por favor.)\n\nfeliz fin de año.",
+ tags=["#Psiclín","#AñoViejo","#FinDeAño","#SaludMental","#Medellín"],
+ alt="Foto cenital de un cuaderno abierto y una taza de café con el texto: ¿Qué le metes a tu año viejo este 31?"),
+
+dict(id="P36", date="2027-01-01", time="11:00", week=7, camp=BURN, moment="Año Nuevo (festivo)",
+ kind="single", pillar="Normalizador",
+ slides=[dict(t="coral_plain", head="No tienes que ser una persona nueva en enero.", note="solo tú, con un poco más de calma")],
+ caption="feliz 2027.\n\nno tienes que ser una persona nueva en enero. no necesitas una lista de diez propósitos ni empezar todo el lunes.\n\nsolo tú, con un poco más de calma.\n\naquí seguimos, para cuando quieras hablar.",
+ tags=["#Psiclín","#AñoNuevo","#FelizAñoNuevo","#SaludMental","#PsicologíaMedellín"],
+ alt="Fondo coral con el texto: No tienes que ser una persona nueva en enero. Solo tú, con un poco más de calma."),
+]
+
+# ---------------- HISTORIAS ----------------
+REMINDERS = [
+ "Pedir ayuda no es debilidad. Es inteligencia.",
+ "No tienes que ponerte al día con todo hoy.",
+ "Lo que sientes tiene sentido.",
+ "Descansar también es productivo.",
+ "Hoy basta con hacer una cosa a la vez.",
+ "No tienes que estar “muy mal” para hablar con alguien.",
+ "Mereces sentirte bien.",
+ "Tu ritmo también es válido.",
+ "Decir que no también es cuidarte.",
+ "Hoy puedes ser amable contigo.",
+ "Respira. Esto también pasa.",
+ "No estás solo en esto.",
+]
