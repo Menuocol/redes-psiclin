@@ -11,6 +11,8 @@ Hay una fila por video. Las tareas programadas llenan las métricas; si un dato 
 | TK03_primera_cita | jue 26 nov 19:00 (programado) | Mi primera cita con el psicólogo: | Expectativa vs. realidad | Tu amiga, Tú, Psicólogo de película, La psicóloga | 28,6 s | Desmitificar la terapia con humor baja el miedo a la primera cita |  |  |  |  |  |  |  |  |  |
 | TK04_black_friday | vie 27 nov 18:00 (programado) | Black Friday después de un día pesado: | Sketch de fecha comercial + cerebro + consejo | Tú, Tu cerebro, La psicóloga | 31,4 s | Engancharse a una tendencia comercial trae alcance nuevo |  |  |  |  |  |  |  |  |  |
 
+Los 4 videos también salen como **Reels de Instagram**: 19 nov 20:30, 21 nov 20:30, 26 nov 20:30 y 27 nov 18:00. Sirven para comparar plataformas; métricas del Reel en Metricool con network instagram, connector reels.
+
 ## Conclusiones por semana
 
 _(La tarea programada escribe aquí cada lunes.)_
