@@ -55,7 +55,7 @@ Pasos para producir un video:
 2. Verificar los cortes de cada frase con faster-whisper (modelo `small`, español, `word_timestamps=True`) y poner los tiempos en `skits.py`.
 3. Correr `python3 skits.py preview <ID>`, mirar los cuadros y corregir cualquier solape.
 4. Correr `python3 skits.py render <ID>`.
-5. Subir el MP4 a `tiktok/videos/` y programarlo en Metricool. Solo con aprobación.
+5. Subir el MP4 y su portada JPG a `tiktok/videos/` y programarlo en Metricool, solo con aprobación. En TikTok, Metricool exige `tiktokData.title` (usar el título fijo). Además van `commercialContentOwnBrand: true` e `isAigc: true`, porque las voces son de IA.
 
 Necesita Playwright con Chrome (`/usr/bin/google-chrome`), ffmpeg y las fuentes de `../src/fonts`. El motor toma las fuentes de `/home/claude/pack/src`; si no existen, se copian desde `../src` del repo.
 
