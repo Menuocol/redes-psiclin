@@ -12,8 +12,10 @@ s1=f'''<div class="abs" style="inset:0;background:{CREAM}"></div>{blob(720,-220,
 {note("20 de noviembre",CORAL,90,150,-3,70)}
 <div class="h abs" style="left:90px;right:90px;top:250px;font-size:118px">Hoy es el<br>Día del<br>Psicólogo</div>
 <div class="abs" style="left:94px;top:648px;font-size:44px;font-weight:600">en Colombia</div>
-{celeste(380,1240,1.55)}{coral(720,1240,1.45,"feliz","arriba",True)}
-{note("gracias, equipo",DEEP,560,690,-5,72,"#fff")}{isoimg()}'''
+<div class="abs" style="left:90px;right:90px;top:800px;background:#fff;border-radius:48px;padding:48px 56px;box-shadow:{SH};display:flex;align-items:center;gap:44px">
+<div class="h" style="font-size:130px;color:{CORAL}">1947</div>
+<div style="font-size:38px;font-weight:500;line-height:1.3">se creó en Colombia el primer programa para formar psicólogos</div></div>
+{note("gracias, equipo",DEEP,90,1170,-4,80)}{under(96,1270,360)}{isoimg()}'''
 
 def row(ok,t):
     ic=icon("check",48,DEEP,3) if ok else '<svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>'
@@ -29,16 +31,16 @@ s2=f'''<div class="abs" style="inset:0;background:{CREAM}"></div>{blob(780,-200,
 
 s3=f'''<div class="abs" style="inset:0;background:{CORAL}"></div>{blob(760,-180,480,"#fff",.18)}
 <div class="h abs" style="left:90px;right:90px;top:200px;font-size:96px">No tienes que estar “muy mal” para hablar con alguien.</div>
-<div class="abs" style="left:90px;right:330px;top:740px;font-size:44px;font-weight:500;line-height:1.35">Si llevas tiempo pensándolo, hoy es un buen día para escribirnos.</div>
+<div class="abs" style="left:90px;right:180px;top:740px;font-size:44px;font-weight:500;line-height:1.35">Si llevas tiempo pensándolo, hoy es un buen día para escribirnos.</div>
 <div class="abs" style="left:90px;top:1060px;background:{DEEP};color:#fff;border-radius:999px;padding:24px 44px;font-size:38px;font-weight:700">WhatsApp 319 681 7123</div>
-{char(SKY,880,1060,1.05,"feliz",0,"gafas","habla",True)}{isoimg()}'''
+{isoimg()}'''
 
 story=f'''<div class="abs" style="inset:0;background:{CREAM}"></div>{blob(700,-200,620,SKY,.30)}{blob(-200,1500,520,CORAL,.25)}
 {note("20 de noviembre",CORAL,90,260,-3,76)}
 <div class="h abs" style="left:90px;right:90px;top:370px;font-size:112px">Hoy es el Día del Psicólogo en Colombia</div>
 <div class="abs" style="left:90px;right:120px;top:830px;font-size:50px;font-weight:600;line-height:1.3">Gracias a nuestro equipo por escuchar sin juzgar, todos los días.</div>
 <div class="abs" style="left:90px;right:90px;top:1100px;height:330px;border:5px dashed rgba(61,90,108,.25);border-radius:40px;display:flex;align-items:center;justify-content:center;font-size:34px;color:rgba(61,90,108,.45);font-weight:600" id="slot">aquí va la encuesta</div>
-{celeste(330,1760,1.25,"feliz","habla")}{coral(760,1760,1.2,"feliz","arriba",True)}{isoimg(120,64,90)}'''
+{note("gracias, equipo",DEEP,90,1560,-4,96)}{under(96,1690,440)}{isoimg(120,64,90)}'''
 
 pages=[("post_01",s1,1080,1350),("post_02",s2,1080,1350),("post_03",s3,1080,1350),("historia",story,1080,1920),("historia_singuia",story.replace('id="slot">aquí va la encuesta','id="slot" style="opacity:0">'),1080,1920)]
 with sync_playwright() as p:
